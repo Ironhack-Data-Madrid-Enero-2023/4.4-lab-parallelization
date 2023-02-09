@@ -1,5 +1,5 @@
 wikipedia
 
-*.ipybn_checkpoints
+.ipybn_checkpoints
 
 .DS_Store
