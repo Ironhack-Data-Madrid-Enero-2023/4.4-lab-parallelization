@@ -2,7 +2,7 @@
 
 # Lab | Parallelization
 
-## Introduction
+## Introductions
 
 In the Parallelization lab, we saw two examples of how we could implement parallelization using the multiprocessing library to speed up the tasks that we need to perform.
 
