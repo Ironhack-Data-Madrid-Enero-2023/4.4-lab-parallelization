@@ -1,9 +1,11 @@
+import requests as req
+from slugify import slugify
+
 def index_page(s):
         
     try:
-        
         html = req.get(s).text
-        
+
         url = slugify(s)
 
         file = open(f'{url}.txt', "w", encoding='UTF-8')
@@ -11,5 +13,5 @@ def index_page(s):
         file.write(f'{html}')
 
         file.close()
-        
+
     except: pass
