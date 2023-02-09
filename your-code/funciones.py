@@ -1,3 +1,6 @@
+import requests
+from slugify import slugify
+
 def index_page(link):
     try:
         html = requests.get(link).text
