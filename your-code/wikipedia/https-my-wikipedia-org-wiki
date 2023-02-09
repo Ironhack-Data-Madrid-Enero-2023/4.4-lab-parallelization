@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled" lang="my" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>ဝီကီပီးဒီးယား</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled";(function(){var cookie=document.cookie.match(/(?:^|; )mywikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["0\t1\t2\t3\t4\t5\t6\t7\t8\t9","၀\t၁\t၂\t၃\t၄\t၅\t၆\t၇\t၈\t၉"],"wgDefaultDateFormat":"my normal","wgMonthNames":["","ဇန်နဝါရီ","ဖေဖော်ဝါရီ","မတ်","ဧပြီ",
+"မေ","ဇွန်","ဇူလိုင်","ဩဂုတ်","စက်တင်ဘာ","အောက်တိုဘာ","နိုဝင်ဘာ","ဒီဇင်ဘာ"],"wgRequestId":"6311fec3-b212-48e4-8521-559933ca5a52","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ဗဟိုစာမျက်နှာ","wgTitle":"ဗဟိုစာမျက်နှာ","wgCurRevisionId":775106,"wgRevisionId":775106,"wgArticleId":808,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"my","wgPageContentModel":"wikitext","wgRelevantPageName":"ဗဟိုစာမျက်နှာ","wgRelevantArticleId":808,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgVisualEditor":{"pageLanguageCode":"my","pageLanguageDir":"ltr",
+"pageVariantFallbacks":"my"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":5000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":8,"wgULSCurrentAutonym":"မြန်မာဘာသာ","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q5296","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgSiteNoticeId":"2.6"};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready",
+"user.options":"loading","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.js","skins.vector.es6","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.switcher","ext.gadget.charinsert","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.interface","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession","ext.dismissableSiteNotice"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=my&amp;modules=ext.dismissableSiteNotice.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles&amp;only=styles&amp;skin=vector-2022"/>
+<script async="" src="/w/load.php?lang=my&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=my&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector-2022"/>
+<link rel="stylesheet" href="/w/load.php?lang=my&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/f/f9/Spiders_Diversity.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1672"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Spiders_Diversity.jpg/800px-Spiders_Diversity.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="1115"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Spiders_Diversity.jpg/640px-Spiders_Diversity.jpg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="892"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="ဝီကီပီးဒီးယား"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//my.m.wikipedia.org/wiki/%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ဝီကီပီးဒီးယား (my)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//my.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://my.wikipedia.org/wiki/%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector skin-vector-search-vue vector-toc-pinned mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-ဗဟိုစာမျက်နှာ rootpage-ဗဟိုစာမျက်နှာ skin-vector-2022 action-view"><div class="mw-page-container">
+	<a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+	<div class="mw-page-container-inner">
+		<input
+			type="checkbox"
+			id="mw-sidebar-checkbox"
+			class="mw-checkbox-hack-checkbox"
+			>
+		<header class="mw-header mw-ui-icon-flush-left mw-ui-icon-flush-right">
+			<div class="vector-header-start">
+					<label
+				id="mw-sidebar-button"
+				class="mw-checkbox-hack-button mw-ui-icon mw-ui-button mw-ui-quiet mw-ui-icon-element mw-ui-icon-flush-right"
+				for="mw-sidebar-checkbox"
+				role="button"
+				aria-controls="mw-panel"
+				data-event-name="ui.sidebar"
+				tabindex="0"
+				title="ပင်မ မီနူး">
+				<span>Toggle sidebar</span>
+			</label>
+		
+<a href="/wiki/%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="ဝီကီပီးဒီးယား"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-my.svg" style="width: 7.5em; height: 1.4375em;">
+		<img class="mw-logo-tagline"
+			alt=""
+			src="/static/images/mobile/copyright/wikipedia-tagline-my.svg" width="120" height="16" style="width: 7.5em; height: 1em;">
+	</span>
+</a>
+
+			</div>
+			<div class="vector-header-end">
+				
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%9B%E1%80%BE%E1%80%AC%E1%80%96%E1%80%BD%E1%80%B1%E1%80%9B%E1%80%94%E1%80%BA"
+	
+		
+		
+		
+		title="ဝီကီပီးဒီးယားတွင် ရှာဖွေရန် [f]"
+		accesskey="f"
+		class="mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search search-toggle">
+		<span>ရှာဖွေရန်</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="ဝီကီပီးဒီးယား တွင် ရှာဖွေရန်" aria-label="ဝီကီပီးဒီးယား တွင် ရှာဖွေရန်" autocapitalize="sentences" title="ဝီကီပီးဒီးယားတွင် ရှာဖွေရန် [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="အထူး:ရှာဖွေရန်">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="ဤစာပါသော စာမျက်နှာများကို ရှာရန်" value="ရှာဖွေရန်">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="ဤအမည်နှင့် ထပ်တူညီသော စာမျက်နှာရှိပါက ယင်းသို့ သွားရန်" value="သွားပါ">
+			</div>
+		</form>
+	</div>
+</div>
+
+				<nav class="vector-user-links" aria-label="ကိုယ်ပိုင် ကိရိယာများ" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-heading">
+		
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%A1%E1%80%80%E1%80%B1%E1%80%AC%E1%80%84%E1%80%B7%E1%80%BA%E1%80%96%E1%80%94%E1%80%BA%E1%80%90%E1%80%AE%E1%80%B8%E1%80%9B%E1%80%94%E1%80%BA&amp;returnto=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC" title="အကောင့်တစ်ခုကို ဖန်တီးပြီး ဝင်ရောက်ရန် သင့်အား တိုက်တွန်းပါသည်။ သို့သော် မဖြစ်မနေ မဟုတ်ပါ။"><span>အကောင့် ဖန်တီးရန်</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	<div id="p-personal" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-personal vector-user-menu vector-user-menu-logged-out"  title="နောက်ထပ် ရွေးချယ်စရာများ" >
+		<input type="checkbox"
+			id="p-personal-checkbox"
+			role="button"
+			aria-haspopup="true"
+			data-event-name="ui.dropdown-p-personal"
+			class="vector-menu-checkbox "
+			
+			
+		/>
+		<label
+			id="p-personal-label"
+			for="p-personal-checkbox"
+			class="vector-menu-heading mw-checkbox-hack-button mw-ui-icon mw-ui-button mw-ui-quiet mw-ui-icon-element mw-ui-icon-wikimedia-ellipsis"
+			
+		>
+			<span class="vector-menu-heading-label">ကိုယ်ပိုင် ကိရိယာများ</span>
+		</label>
+		<div class="vector-menu-content">
+	
+		<div class="vector-menu-content">
+	
+	<ul class="vector-menu-content-list"><li class="vector-user-menu-create-account user-links-collapsible-item" id=""><a data-mw="interface"
+	href="/w/index.php?title=%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%A1%E1%80%80%E1%80%B1%E1%80%AC%E1%80%84%E1%80%B7%E1%80%BA%E1%80%96%E1%80%94%E1%80%BA%E1%80%90%E1%80%AE%E1%80%B8%E1%80%9B%E1%80%94%E1%80%BA&amp;returnto=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC"
+	><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span><span>အကောင့် ဖန်တီးရန်</span></a>
+</li><li class="vector-user-menu-login" id=""><a data-mw="interface"
+	href="/w/index.php?title=%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:UserLogin&amp;returnto=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC"
+	><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span><span>အကောင့်ဝင်ရန်</span></a>
+</li></ul>
+	
+</div>
+
+		<div class="vector-user-menu-anon-editor">
+			<p>
+				Pages for logged out editors <a data-mw="interface"
+	href="/wiki/%E1%80%A1%E1%80%80%E1%80%B0%E1%80%A1%E1%80%8A%E1%80%AE:Introduction"
+	 aria-label="တည်းဖြတ်ခြင်းအကြောင်း ပိုမိုလေ့လာရန်"><span>learn more</span></a>
+
+			</p>
+		</div>
+				<div class="vector-menu-content">
+	
+	<ul class="vector-menu-content-list"><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%80%E1%80%BB%E1%80%BD%E1%80%94%E1%80%BA%E1%80%AF%E1%80%95%E1%80%BA%E1%81%8F%E1%80%86%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%94%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%81%E1%80%BB%E1%80%80%E1%80%BA" title="ဤအိုင်ပီလိပ်စာမှ တည်းဖြတ်မှုများအကြောင်း ဆွေးနွေးချက် [n]" accesskey="n"><span>ဆွေးနွေးရန်</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%80%E1%80%BB%E1%80%BD%E1%80%94%E1%80%BA%E1%80%AF%E1%80%95%E1%80%BA%E1%81%8F%E1%80%86%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%BD%E1%80%80%E1%80%BA%E1%80%81%E1%80%BB%E1%80%80%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ဤအိုင်ပီလိပ်စာမှ ပြုလုပ်ထားသော တည်းဖြတ်မှုများ၏ စာရင်း [y]" accesskey="y"><span>ဆောင်ရွက်ချက်များ</span></a></li></ul>
+	
+</div>
+
+	
+		</div>
+	</div></nav>
+
+			</div>
+		</header>
+		<div class="vector-main-menu-container vector-sidebar-container-no-toc">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+						
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	
+	
+<div id="p-navigation" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-navigation"  >
+	<div
+		id="p-navigation-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">အ​ညွှန်း​</span>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC" title="ဗဟိုစာမျက်နှာသို့ သွားရန် [z]" accesskey="z"><span>ဗဟိုစာမျက်နှာ</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:%E1%80%9C%E1%80%80%E1%80%BA%E1%80%9B%E1%80%BE%E1%80%AD%E1%80%96%E1%80%BC%E1%80%85%E1%80%BA%E1%80%9B%E1%80%95%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="လက်ရှိ အဖြစ်အပျက်များမှ နောက်ခံ အချက်အလက်များကို ရှာရန်"><span>လက်ရှိဖြစ်ရပ်များ</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%9C%E1%80%90%E1%80%BA%E1%80%90%E1%80%9C%E1%80%B1%E1%80%AC%E1%80%A1%E1%80%95%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%A1%E1%80%9C%E1%80%B2%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ဝီကီမှ လတ်တလော အပြောင်းအလဲများ စာရင်း [r]" accesskey="r"><span>လတ်တလော အပြောင်းအလဲများ</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%80%E1%80%BB%E1%80%95%E1%80%94%E1%80%BA%E1%80%B8" title="ကျပန်းစာမျက်နှာ ပြရန် [x]" accesskey="x"><span>ကျပန်းစာမျက်နှာ</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:%E1%80%A1%E1%80%80%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8"><span>ဝီကီပီးဒီးယား အကြောင်း</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="/wiki/Contact-url"><span>ဆက်သွယ်ရန်</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=my" title="ကျွန်ုပ်တို့အား ထောက်ပံ့ပေးပါ"><span>လှူဒါန်း​မှု​</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-interaction"  >
+	<div
+		id="p-interaction-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">ပါဝင်ပံ့ပိုးရန်</span>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="ရှာဖွေဖော်ထုတ်ရန်နေရာ"><span>အ​ကူ​အ​ညီ​</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%E1%80%A1%E1%80%80%E1%80%B0%E1%80%A1%E1%80%8A%E1%80%AE:%E1%80%99%E1%80%AD%E1%80%90%E1%80%BA%E1%80%86%E1%80%80%E1%80%BA"><span>တည်းဖြတ်ခြင်း လေ့လာရန်</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:%E1%80%95%E1%80%B1%E1%80%AB%E1%80%84%E1%80%BA%E1%80%B8%E1%80%80%E1%80%B0%E1%80%B8%E1%80%94%E1%80%B1%E1%80%9B%E1%80%AC" title="ပရောဂျက်အကြောင်း၊ သင်ဘာလုပ်ပေးနိုင်သည် နှင့် ဘယ်နေရာတွင် ရှာဖွေရန်များ"><span>ပေါင်းကူးနေရာ</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:%E1%80%96%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%90%E1%80%84%E1%80%BA%E1%80%80%E1%80%B0%E1%80%8A%E1%80%AE%E1%80%80%E1%80%AD%E1%80%9B%E1%80%AD%E1%80%9A%E1%80%AC"><span>ဖိုင်​တင်​ရန်​</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-tb"  >
+	<div
+		id="p-tb-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">ကိရိယာများ</span>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%98%E1%80%9A%E1%80%BA%E1%80%80%E1%80%9C%E1%80%84%E1%80%B7%E1%80%BA%E1%80%91%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%B2/%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC" title="ဤနေရာသို့ လမ်းညွှန် လင့်ထားသည့် ဝီကီစာမျက်နှာများ၏ စာရင်း [j]" accesskey="j"><span>ဘယ်ကလင့်ခ်ထားလဲ</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:RecentChangesLinked/%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC" rel="nofollow" title="ဤစာမျက်နှာမှ ညွှန်းထားသည့် စာမျက်နှာများမှ လတ်တလော အပြောင်းအလဲများ [k]" accesskey="k"><span>ဆက်စပ်သော အပြောင်းအလဲများ</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="အထူး စာမျက်နှာများအားလုံး စာရင်း [q]" accesskey="q"><span>အထူး စာမျက်နှာများ</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC&amp;oldid=775106" title="ယခုမူအတွက် ပုံသေလိပ်စာ"><span>ပုံ​သေ​လိပ်​စာ​</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC&amp;action=info" title="ဤစာမျက်နှာအကြောင်း အချက်အလက်ပို၍"><span>စာမျက်နှာ အချက်အလက်များ</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:CiteThisPage&amp;page=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC&amp;id=775106&amp;wpFormIdentifier=titleform" title="ဤစာမျက်နှာအား အကိုးအကားပြုပုံ အချက်အလက်များ"><span>ဤစာမျက်နှာကို ကိုးကားပြုရန်</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="ဒေတာအချက်အလက်နှင့် ချိတ်ဆက်ရန်လင့်ခ် [g]" accesskey="g"><span>ဝီကီဒေတာ item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div
+		id="p-coll-print_export-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">ပရင့်/ပို့လွှတ်</span>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:Book&amp;bookcmd=book_creator&amp;referer=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC"><span>စာအုပ်တစ်အုပ် ဖန်တီးရန်</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:DownloadAsPdf&amp;page=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC&amp;action=show-download-screen"><span>PDF အနေဖြင့် ရယူရန်</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC&amp;printable=yes" title="ဤစာမျက်နှာ၏ ပရင့်ထုတ်နိုင်သောမူ [p]" accesskey="p"><span>ပရင့်ထုတ်နိုင်သော ဗားရှင်း</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div
+		id="p-wikibase-otherprojects-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">အခြား ပရောဂျက်များတွင်</span>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en"><span>ဝီကီမီဒီယာ ကွန်မွန်းစ်</span></a></li><li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en"><span>မီဒီယာဝီကီ</span></a></li><li class="wb-otherproject-link wb-otherproject-meta mw-list-item"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en"><span>မေတာ-ဝီကီ</span></a></li><li class="wb-otherproject-link wb-otherproject-sources mw-list-item"><a href="https://wikisource.org/wiki/Main_Page" hreflang="en"><span>ဘာသာစကားစုံ ဝီကီရင်းမြစ်</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en"><span>ဝီကီမျိုးစိတ်</span></a></li><li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en"><span>ဝီကီဒေတာ</span></a></li><li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item"><a href="https://wikimania.wikimedia.org/wiki/2022:Wikimania" hreflang="en"><span>ဝီကီမေးနီးယား</span></a></li><li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item"><a href="https://my.wiktionary.org/wiki/%E1%80%9D%E1%80%85%E1%80%BA%E1%80%9B%E1%80%BE%E1%80%84%E1%80%BA%E1%80%94%E1%80%9B%E1%80%AE:%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC" hreflang="my"><span>ဝစ်ရှင်နရီ</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+
+</div>
+
+				</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Eဖြုတ်ရန်\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\"\u003E\u003Cdiv class=\"sitenotice\" lang=\"my\" dir=\"ltr\"\u003E\u003Cdiv class=\"plainlinks\" style=\"background:#f5faff; border:1px solid #a7d7f9; margin:1em auto 1em auto; width:100%; padding: 0.5ex;\"\u003E\n\u003Cul\u003E\u003Cli\u003Eမြန်မာဝီကီပီးဒီးယားတွင် \u003Cb\u003E\u003Ca href=\"/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:GA\" class=\"mw-redirect\" title=\"ဝီကီပီးဒီးယား:GA\"\u003Eဆောင်းပါးကောင်းများ\u003C/a\u003E\u003C/b\u003E ရွေးချယ်သတ်မှတ်ခြင်း လုပ်ငန်းစဉ်များ စတင်သက်ဝင်ပြီဖြစ်သဖြင့် မည်သူမဆို မိမိဖန်တီးတည်းဖြတ်ထားသော ဆောင်းပါးများ \u003Ca href=\"/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:GA%3F\" class=\"mw-redirect\" title=\"ဝီကီပီးဒီးယား:GA?\"\u003Eအရည်အသွေးပြည့်မီပါက\u003C/a\u003E သတ်မှတ်ချက်များနှင့် အညီ \u003Ca href=\"/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:GAN\" class=\"mw-redirect\" title=\"ဝီကီပီးဒီးယား:GAN\"\u003Eဆောင်းပါးကောင်းအမည်စာရင်း\u003C/a\u003E တင်သွင်းနိုင်ပြီ ဖြစ်ပါသည်။ \u003Ci\u003Eအမည်စာရင်းတင်သွင်းခြင်း လမ်းညွှန်အတွက် \u003Ca href=\"/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:GAN/I\" class=\"mw-redirect\" title=\"ဝီကီပီးဒီးယား:GAN/I\"\u003Eဤနေရာ\u003C/a\u003Eတွင် ကြည့်ပါ။\u003C/i\u003E\u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="mw-checkbox-hack-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container">
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-flush-left mw-ui-icon-element mw-ui-icon-wikimedia-listBullet mw-checkbox-hack-button"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="toc-toggle-list"
+						data-event-name="vector.toc-toggle-list"
+						tabindex="0"
+						title="Table of Contents">
+						Toggle the table of contents
+					</label>
+				
+					
+					
+				
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">ဗဟိုစာမျက်နှာ</span></h1>
+				
+				
+						<div class="mw-indicators">
+		</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="အမည်ညွှန်းများ">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC" title="မာတိကာ ကြည့်ရန် [c]" accesskey="c"><span>ဗဟိုစာမျက်နှာ</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%E1%80%86%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%94%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%81%E1%80%BB%E1%80%80%E1%80%BA:%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC" rel="discussion" title="မာတိကာ စာမျက်နှာအတွက် ဆွေးနွေးချက်များ [t]" accesskey="t"><span>ဆွေးနွေးချက်</span></a></li></ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">မြန်မာဘာသာ</span>
+	</label>
+	<div class="vector-menu-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="အမြင်ပုံစံများ">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC"><span>ဖတ်ရန်</span></a></li><li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC&amp;action=edit" title="ဤစာမျက်နှာကို တည်းဖြတ်ခြင်းမှ တားဆီးထားသည်။&#10;ရင်းမြစ် စာသားများကို ကြည့်ရှုနိုင်သည်။ [e]" accesskey="e"><span>ရင်းမြစ် ကြည့်ရန်</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC&amp;action=history" title="ဤစာမျက်နှာ၏ ယခင်မူများ [h]" accesskey="h"><span>ရာဇဝင်ကြည့်ရန်</span></a></li></ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="နောက်ထပ် ရွေးချယ်စရာများ">
+								
+
+<div id="p-cactions" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="နောက်ထပ် ရွေးချယ်စရာများ" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		
+		
+	/>
+	<label
+		id="p-cactions-label"
+		for="p-cactions-checkbox"
+		class="vector-menu-heading"
+		
+	>
+		<span class="vector-menu-heading-label">ပို၍</span>
+	</label>
+	<div class="vector-menu-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC"><span>ဖတ်ရန်</span></a></li><li id="ca-more-viewsource" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC&amp;action=edit"><span>ရင်းမြစ် ကြည့်ရန်</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC&amp;action=history"><span>ရာဇဝင်ကြည့်ရန်</span></a></li></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+					
+						<div id="siteSub" class="noprint">ဝီကီပီးဒီးယား မှ</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="my" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r775107">.mw-parser-output .mp-box{border:1px solid #aaa;padding:0 0.5em 0.5em;margin-top:4px}.mw-parser-output .mp-h2,body.skin-timeless .mw-parser-output .mp-h2{border:1px solid #aaa;margin:0.5em 0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;font-family:inherit}.mw-parser-output .mp-later{font-size:85%;font-weight:normal}.mw-parser-output #mp-topbanner{background:#f9f9f9;border-color:#ddd}.mw-parser-output #mp-welcomecount{text-align:center;margin:0.4em}.mw-parser-output #mp-welcome{font-size:162%;line-height:170%;padding:0.1em}.mw-parser-output #mp-welcome h1{font-size:inherit;font-family:inherit;display:inline;border:none}.mw-parser-output #mp-free{font-size:110%;line-height:130%}.mw-parser-output #articlecount{font-size:110%;line-height:130%;text-align:center}.mw-parser-output .mp-contains-float::after{content:"";display:block;clear:both}.mw-parser-output #mp-banner{background:#fffaf5;border-color:#f2e0ce}.mw-parser-output #mp-left{background:#f5fffa;border-color:#cef2e0}.mw-parser-output #mp-left .mp-h2{background:#cef2e0;border-color:#a3bfb1}.mw-parser-output #mp-right{background:#f5faff;border-color:#cedff2}.mw-parser-output #mp-right .mp-h2{background:#cedff2;border-color:#a3b0bf}.mw-parser-output #mp-middle{background:#fff5fa;border-color:#f2cedd}.mw-parser-output #mp-middle .mp-h2{background:#f2cedd;border-color:#bfa3af}.mw-parser-output #mp-lower{background:#faf5ff;border-color:#ddcef2}.mw-parser-output #mp-lower .mp-h2{background:#ddcef2;border-color:#afa3bf}.mw-parser-output #mp-bottom{border-color:#e2e2e2}.mw-parser-output #mp-bottom .mp-h2{background:#eee;border-color:#ddd}@media(max-width:875px){.mw-parser-output #mp-tfp table,.mw-parser-output #mp-tfp tr,.mw-parser-output #mp-tfp td,.mw-parser-output #mp-tfp tbody{display:block!important;width:100%!important;box-sizing:border-box}.mw-parser-output #mp-tfp tr:first-child td:first-child a{text-align:center;display:table;margin:0 auto}}@media(min-width:875px){.mw-parser-output #mp-upper{display:flex}.mw-parser-output #mp-left{flex:1 1 55%;margin-right:2px}.mw-parser-output #mp-right{flex:1 1 45%;margin-left:2px}}.mw-parser-output .globegris{background:url("//upload.wikimedia.org/wikipedia/commons/1/10/Wikipedia-logo-v2-200px-transparent.png")}.mw-parser-output #mp-font{margin-top:2px;width:100%;background-color:#f5fffa;vertical-align:top;border-radius:10px}.mw-parser-output #mp-index{background:#f5faff;border:1px solid #a7d7f9;vertical-align:top;border-radius:3px;color:#000;font-size:100%;padding:10px 10px 10px 10px;margin:2px}</style>
+<div id="mp-topbanner" class="mp-box">
+<div id="mp-welcomecount">
+<div id="mp-welcome"><h1><span id=".E1.80.9D.E1.80.AE.E1.80.80.E1.80.AE.E1.80.95.E1.80.AE.E1.80.B8.E1.80.92.E1.80.AE.E1.80.B8.E1.80.9A.E1.80.AC.E1.80.B8.E1.80.80_.E1.80.80.E1.80.BC.E1.80.AD.E1.80.AF.E1.80.86.E1.80.AD.E1.80.AF.E1.80.95.E1.80.AB.E1.80.9E.E1.80.8A.E1.80.BA.E1.81.8B.0A.E1.80.99.E1.80.8A.E1.80.BA.E1.80.9E.E1.80.B0.E1.80.99.E1.80.86.E1.80.AD.E1.80.AF_.E1.80.80.E1.80.BC.E1.80.8A.E1.80.B7.E1.80.BA.E1.80.9B.E1.80.BE.E1.80.AF.E1.80.95.E1.80.BC.E1.80.84.E1.80.BA.E1.80.86.E1.80.84.E1.80.BA.E1.80.94.E1.80.AD.E1.80.AF.E1.80.84.E1.80.BA.E1.80.9E.E1.80.B1.E1.80.AC_.E1.80.A1.E1.80.81.E1.80.99.E1.80.B2.E1.80.B7.E1.80.9C.E1.80.BD.E1.80.90.E1.80.BA.E1.80.9C.E1.80.95.E1.80.BA.E1.80.85.E1.80.BD.E1.80.9A.E1.80.BA.E1.80.85.E1.80.AF.E1.80.B6.E1.80.80.E1.80.BB.E1.80.99.E1.80.BA.E1.80.B8_.E1.80.96.E1.80.BC.E1.80.85.E1.80.BA.E1.80.95.E1.80.AB.E1.80.9E.E1.80.8A.E1.80.BA.E1.81.8B.0A.E1.80.A1.E1.80.80.E1.80.BC.E1.80.B1.E1.80.AC.E1.80.84.E1.80.BA.E1.80.B8.E1.80.A1.E1.80.9B.E1.80.AC.E1.80.95.E1.80.B1.E1.80.AB.E1.80.84.E1.80.BA.E1.80.B8_.E1.81.81.E1.81.80.E1.81.85.E1.81.83.E1.81.87.E1.81.89_.E1.80.81.E1.80.AF.E1.80.80.E1.80.AD.E1.80.AF_.E1.80.99.E1.80.BC.E1.80.94.E1.80.BA.E1.80.99.E1.80.AC.E1.80.98.E1.80.AC.E1.80.9E.E1.80.AC.E1.80.96.E1.80.BC.E1.80.84.E1.80.B7.E1.80.BA_.E1.80.96.E1.80.90.E1.80.BA.E1.80.9B.E1.80.BE.E1.80.AF.E1.80.94.E1.80.AD.E1.80.AF.E1.80.84.E1.80.BA.E1.80.95.E1.80.AB.E1.80.9E.E1.80.8A.E1.80.BA.E1.81.8B.0A_.0A.0A.0A.0A.0A.0A.0A.0A.0A.E1.80.80.0A.0A.E1.80.81.0A.0A.E1.80.82.0A.0A.E1.80.83.0A.0A.E1.80.84.0A.0A.E1.80.85.0A.0A.E1.80.86.0A.0A.E1.80.87.0A.0A.E1.80.88.0A.0A.E1.80.89_.7C_.E1.80.8A.0A.0A.E1.80.8B.0A.0A.E1.80.8C.0A.0A.E1.80.8D.0A.0A.E1.80.8E.0A.0A.E1.80.8F.0A.0A.E1.80.90.0A.0A.E1.80.91.0A.0A.E1.80.92.0A.0A.E1.80.93.0A.0A.E1.80.94.0A.0A.0A.E1.80.95.0A.0A.E1.80.96.0A.0A.E1.80.97.0A.0A.E1.80.98.0A.0A.E1.80.99.0A.0A.E1.80.9A.0A.0A.E1.80.9B.0A.0A.E1.80.9C.0A.0A.E1.80.9D.0A.0A.E1.80.9E.0A.0A.E1.80.9F.0A.0A.E1.80.A0.0A.0A.E1.80.A1.0A.0A.E1.80.A3.0A.0A.E1.80.A4.0A.0A.E1.80.A5.0A.0A.E1.80.A6.0A.0A.E1.80.A7.0A.0A.E1.80.A9.0A.0A.E1.80.AA.0A.0A.0A.0A.0A.0A.0A.0A.E1.80.A1.E1.80.80.E1.80.BC.E1.80.B1.E1.80.AC.E1.80.84.E1.80.BA.E1.80.B8_.E2.80.A2_.0A.E1.80.95.E1.80.BC.E1.80.84.E1.80.BA.E1.80.86.E1.80.84.E1.80.BA.E1.80.99.E1.80.BE.E1.80.AF_.E2.80.A2_.0A.E1.80.99.E1.80.B1.E1.80.B8.E1.80.81.E1.80.BD.E1.80.94.E1.80.BA.E1.80.B8.E1.80.99.E1.80.BB.E1.80.AC.E1.80.B8_.E2.80.A2_.0A.E1.80.A1.E1.80.80.E1.80.B0.E1.80.A1.E1.80.8A.E1.80.AE_.E2.80.A2_.0AGuestbook.0A.0A.0A.E1.80.99.E1.80.AC.E1.80.90.E1.80.AD.E1.80.80.E1.80.AC_.E2.80.A2_.0A.E1.80.80.E1.80.8F.E1.80.B9.E1.80.8D.E1.80.A1.E1.80.8A.E1.80.BD.E1.80.BE.E1.80.94.E1.80.BA.E1.80.B8_.E2.80.A2_.0A.E1.80.86.E1.80.B1.E1.80.AC.E1.80.84.E1.80.BA.E1.80.B8.E1.80.95.E1.80.AB.E1.80.B8.E1.80.A1.E1.80.AC.E1.80.B8.E1.80.9C.E1.80.AF.E1.80.B6.E1.80.B8.0A.0A.0A.0A.0A.0A.0A.0A.0A.0A.E1.80.9A.E1.80.94.E1.80.B1.E1.80.B7.E1.80.9E.E1.80.8A.E1.80.BA_.E2.80.93_.E1.81.88_.E1.80.96.E1.80.B1.E1.80.96.E1.80.B1.E1.80.AC.E1.80.BA.E1.80.9D.E1.80.AB.E1.80.9B.E1.80.AE_.E1.81.82.E1.81.80.E1.81.82.E1.81.83.0A.0A.0A.0A.0A.0A.0A.E1.80.A1.E1.80.91.E1.80.B0.E1.80.B8.E1.80.A1.E1.80.80.E1.80.BC.E1.80.B1.E1.80.AC.E1.80.84.E1.80.BA.E1.80.B8.E1.80.A1.E1.80.9B.E1.80.AC"></span><span class="mw-headline" id="ဝီကီပီးဒီးယားက_ကြိုဆိုပါသည်။_မည်သူမဆို_ကြည့်ရှုပြင်ဆင်နိုင်သော_အခမဲ့လွတ်လပ်စွယ်စုံကျမ်း_ဖြစ်ပါသည်။_အကြောင်းအရာပေါင်း_၁၀၅၃၇၉_ခုကို_မြန်မာဘာသာဖြင့်_ဖတ်ရှုနိုင်ပါသည်။___________က__ခ__ဂ__ဃ__င__စ__ဆ__ဇ__ဈ__ဉ_|_ည__ဋ__ဌ__ဍ__ဎ__ဏ__တ__ထ__ဒ__ဓ__န___ပ__ဖ__ဗ__ဘ__မ__ယ__ရ__လ__ဝ__သ__ဟ__ဠ__အ__ဣ__ဤ__ဥ__ဦ__ဧ__ဩ__ဪ________အကြောင်း_•__ပြင်ဆင်မှု_•__မေးခွန်းများ_•__အကူအညီ_•__Guestbook___မာတိကာ_•__ကဏ္ဍအညွှန်း_•__ဆောင်းပါးအားလုံး__________ယနေ့သည်_–_၈_ဖေဖော်ဝါရီ_၂၀၂၃_______အထူးအကြောင်းအရာ"><b><a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8" title="ဝီကီပီးဒီးယား">ဝီကီပီးဒီးယား</a></b>က ကြိုဆိုပါသည်။<h1></h1></span></h1></div>
+<div id="mp-free"><a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:%E1%80%94%E1%80%AD%E1%80%92%E1%80%AB%E1%80%94%E1%80%BA%E1%80%B8" title="ဝီကီပီးဒီးယား:နိဒါန်း">မည်သူမဆို ကြည့်ရှုပြင်ဆင်နိုင်သော</a> အခမဲ့လွတ်လပ်<a href="/wiki/%E1%80%85%E1%80%BD%E1%80%9A%E1%80%BA%E1%80%85%E1%80%AF%E1%80%B6%E1%80%80%E1%80%BB%E1%80%99%E1%80%BA%E1%80%B8" title="စွယ်စုံကျမ်း">စွယ်စုံကျမ်း</a> ဖြစ်ပါသည်။</div>
+<div id="articlecount">အကြောင်းအရာပေါင်း <b><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%9B%E1%80%84%E1%80%BA%E1%80%B8%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="အထူး:စာရင်းအင်းများ">၁၀၅၃၇၉</a></b> ခုကို <a href="/wiki/%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC" class="mw-redirect" title="မြန်မာဘာသာ">မြန်မာဘာသာ</a>ဖြင့် ဖတ်ရှုနိုင်ပါသည်။</div>
+<p><a href="https://www.facebook.com/250212975330742" title="ဖေ့စ်ဘွတ်ခ်ပေါ်ရှိ မြန်မာဝီကီပီးဒီးယား စာမျက်နှာ" rel="nofollow"><img alt="ဖေ့စ်ဘွတ်ခ်ပေါ်ရှိ မြန်မာဝီကီပီးဒီးယား စာမျက်နှာ" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/15px-2021_Facebook_icon.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/23px-2021_Facebook_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/30px-2021_Facebook_icon.svg.png 2x" data-file-width="512" data-file-height="512" /></a>&#160;<a href="https://twitter.com/myWikipedia" title="တွစ်တာပေါ်ရှိ မြန်မာဝီကီပီးဒီးယား စာမျက်နှာ" rel="nofollow"><img alt="တွစ်တာပေါ်ရှိ မြန်မာဝီကီပီးဒီးယား စာမျက်နှာ" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/18px-Twitter-logo.svg.png" decoding="async" width="18" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/27px-Twitter-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/36px-Twitter-logo.svg.png 2x" data-file-width="512" data-file-height="421" /></a>&#160;<a href="https://t.me/WikipediaMyanmar" title="တယ်လီဂရမ်ပေါ်ရှိ မြန်မာဝီကီပီးဒီးယား ချန်နယ်" rel="nofollow"><img alt="တယ်လီဂရမ်ပေါ်ရှိ မြန်မာဝီကီပီးဒီးယား ချန်နယ်" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/18px-Telegram_2019_Logo.svg.png" decoding="async" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/27px-Telegram_2019_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/36px-Telegram_2019_Logo.svg.png 2x" data-file-width="512" data-file-height="512" /></a>&#160;<a href="https://www.instagram.com/myanmarwikipedia/" title="အင်စတာဂရမ်ပေါ်ရှိ မြန်မာဝီကီပီးဒီးယား" rel="nofollow"><img alt="အင်စတာဂရမ်ပေါ်ရှိ မြန်မာဝီကီပီးဒီးယား" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/18px-Instagram_logo_2016.svg.png" decoding="async" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/27px-Instagram_logo_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/36px-Instagram_logo_2016.svg.png 2x" data-file-width="132" data-file-height="132" /></a>
+</p>
+</div>
+</div>
+<div class="nomobile">
+<div id="mp-index" class="mp-index">
+<table align="center" cellspacing="0" cellpadding="0" style="padding-top: 5px; width: 75%; border-collapse: separate; font-size: 95%;">
+
+<tbody><tr align="center">
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%80" title="အထူး:စာမျက်နှာအားလုံး/က">က</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%81" title="အထူး:စာမျက်နှာအားလုံး/ခ">ခ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%82" title="အထူး:စာမျက်နှာအားလုံး/ဂ">ဂ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%83" title="အထူး:စာမျက်နှာအားလုံး/ဃ">ဃ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%84" title="အထူး:စာမျက်နှာအားလုံး/င">င</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%85" title="အထူး:စာမျက်နှာအားလုံး/စ">စ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%86" title="အထူး:စာမျက်နှာအားလုံး/ဆ">ဆ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%87" title="အထူး:စာမျက်နှာအားလုံး/ဇ">ဇ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%88" title="အထူး:စာမျက်နှာအားလုံး/ဈ">ဈ</a>
+</td>
+<td style="width: 4%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%89" title="အထူး:စာမျက်နှာအားလုံး/ဉ">ဉ</a> | <a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%8A" title="အထူး:စာမျက်နှာအားလုံး/ည">ည</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%8B" title="အထူး:စာမျက်နှာအားလုံး/ဋ">ဋ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%8C" title="အထူး:စာမျက်နှာအားလုံး/ဌ">ဌ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%8D" title="အထူး:စာမျက်နှာအားလုံး/ဍ">ဍ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%8E" title="အထူး:စာမျက်နှာအားလုံး/ဎ">ဎ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%8F" title="အထူး:စာမျက်နှာအားလုံး/ဏ">ဏ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%90" title="အထူး:စာမျက်နှာအားလုံး/တ">တ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%91" title="အထူး:စာမျက်နှာအားလုံး/ထ">ထ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%92" title="အထူး:စာမျက်နှာအားလုံး/ဒ">ဒ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%93" title="အထူး:စာမျက်နှာအားလုံး/ဓ">ဓ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-right: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%94" title="အထူး:စာမျက်နှာအားလုံး/န">န</a>
+</td></tr>
+<tr align="center">
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%95" title="အထူး:စာမျက်နှာအားလုံး/ပ">ပ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%96" title="အထူး:စာမျက်နှာအားလုံး/ဖ">ဖ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%97" title="အထူး:စာမျက်နှာအားလုံး/ဗ">ဗ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%98" title="အထူး:စာမျက်နှာအားလုံး/ဘ">ဘ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%99" title="အထူး:စာမျက်နှာအားလုံး/မ">မ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%9A" title="အထူး:စာမျက်နှာအားလုံး/ယ">ယ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%9B" title="အထူး:စာမျက်နှာအားလုံး/ရ">ရ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%9C" title="အထူး:စာမျက်နှာအားလုံး/လ">လ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%9D" title="အထူး:စာမျက်နှာအားလုံး/ဝ">ဝ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%9E" title="အထူး:စာမျက်နှာအားလုံး/သ">သ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%9F" title="အထူး:စာမျက်နှာအားလုံး/ဟ">ဟ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%A0" title="အထူး:စာမျက်နှာအားလုံး/ဠ">ဠ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%A1" title="အထူး:စာမျက်နှာအားလုံး/အ">အ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%A3" title="အထူး:စာမျက်နှာအားလုံး/ဣ">ဣ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%A4" title="အထူး:စာမျက်နှာအားလုံး/ဤ">ဤ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%A5" title="အထူး:စာမျက်နှာအားလုံး/ဥ">ဥ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%A6" title="အထူး:စာမျက်နှာအားလုံး/ဦ">ဦ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%A7" title="အထူး:စာမျက်နှာအားလုံး/ဧ">ဧ</a>
+</td>
+<td style="width: 3%; background: #f2f3f3; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%A9" title="အထူး:စာမျက်နှာအားလုံး/ဩ">ဩ</a>
+</td>
+<td style="width: 3%; background: #f6f7f8; border: 2px solid #fff; border-left: 0px; border-top: 0px; border-bottom: 0; border-right: 0px; padding: 5px;"><a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8/%E1%80%AA" title="အထူး:စာမျက်နှာအားလုံး/ဪ">ဪ</a>
+</td></tr></tbody></table>
+<center><div style="width: 90%;">
+<hr />
+</div></center>
+<table align="center" cellspacing="0" cellpadding="0" style="padding-top: 5px; width: 100%; border-collapse: separate; font-size: 95%;">
+<tbody><tr>
+<td style="border:none; background:none;">
+<p><a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:About" class="mw-redirect" title="ဝီကီပီးဒီးယား:About">အကြောင်း</a>&#160;&#160;&#8226;&#32;&#160;
+<a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:%E1%80%9E%E1%80%84%E1%80%BA%E1%80%81%E1%80%94%E1%80%BA%E1%80%B8%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ဝီကီပီးဒီးယား:သင်ခန်းစာများ">ပြင်ဆင်မှု</a>&#160;&#160;&#8226;&#32;&#160;
+<a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:Questions" title="ဝီကီပီးဒီးယား:Questions">မေးခွန်းများ</a>&#160;&#160;&#8226;&#32;&#160;
+<a href="/wiki/%E1%80%A1%E1%80%80%E1%80%B0%E1%80%A1%E1%80%8A%E1%80%AE:Contents" class="mw-redirect" title="အကူအညီ:Contents">အကူအညီ</a>&#160;&#160;&#8226;&#32;&#160;
+<a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:Guestbook_for_non-Burmese/Myanmar-speakers" title="ဝီကီပီးဒီးယား:Guestbook for non-Burmese/Myanmar-speakers">Guestbook</a>
+</p>
+</td>
+<td style="border:none; background:none; text-align:right;">
+<p><a href="/wiki/Portal:%E1%80%99%E1%80%AC%E1%80%90%E1%80%AD%E1%80%80%E1%80%AC" class="mw-redirect" title="Portal:မာတိကာ">မာတိကာ</a>&#160;&#160;&#8226;&#32;&#160;
+<a href="/wiki/Portal:%E1%80%99%E1%80%AC%E1%80%90%E1%80%AD%E1%80%80%E1%80%AC/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D%E1%80%A1%E1%80%8A%E1%80%BD%E1%80%BE%E1%80%94%E1%80%BA%E1%80%B8" title="Portal:မာတိကာ/ကဏ္ဍအညွှန်း">ကဏ္ဍအညွှန်း</a>&#160;&#160;&#8226;&#32;&#160;
+<a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8" title="အထူး:စာမျက်နှာအားလုံး">ဆောင်းပါးအားလုံး</a>
+</p>
+</td></tr></tbody></table>
+</div>
+</div>
+<div id="mp-font">
+<div class="nomobile"><div style="float:left; border:1px solid #008B00; margin:1px;" class="wikipediauserbox">
+<table cellspacing="0" style="width:238px; background:#008B00;">
+<tbody><tr>
+<th style="width:45px; height:45px; background:white; text-align:center; font-size:14pt; color:black; padding:0 1px 0 0; line-height:1.25em; vertical-align: middle;"><a href="/wiki/%E1%80%96%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA:Crystal_Clear_app_date.png" class="image"><img alt="Crystal Clear app date.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Crystal_Clear_app_date.png/30px-Crystal_Clear_app_date.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Crystal_Clear_app_date.png/45px-Crystal_Clear_app_date.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Crystal_Clear_app_date.png/60px-Crystal_Clear_app_date.png 2x" data-file-width="128" data-file-height="128" /></a>
+</th>
+<td style="text-align:left; font-size:12pt; padding:0 4px 0 4px; height:45px; line-height:1.25em; color:white; vertical-align: middle;"><b>ယနေ့သည်</b> – <a href="/wiki/%E1%81%88_%E1%80%96%E1%80%B1%E1%80%96%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%9D%E1%80%AB%E1%80%9B%E1%80%AE" title="၈ ဖေဖော်ဝါရီ"><span style="color:white;">၈ ဖေဖော်ဝါရီ</span></a> <a href="/wiki/%E1%81%82%E1%81%80%E1%81%82%E1%81%83" title="၂၀၂၃"><span style="color:white;">၂၀၂၃</span></a>
+</td></tr></tbody></table></div></div><div class="floatright"><a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:Font" title="ဝီကီပီးဒီးယား:Font"><img alt="Website Font Issue.svg" src="//upload.wikimedia.org/wikipedia/my/thumb/2/29/Website_Font_Issue.svg/500px-Website_Font_Issue.svg.png" decoding="async" width="500" height="46" srcset="//upload.wikimedia.org/wikipedia/my/thumb/2/29/Website_Font_Issue.svg/750px-Website_Font_Issue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/my/thumb/2/29/Website_Font_Issue.svg/1000px-Website_Font_Issue.svg.png 2x" data-file-width="358" data-file-height="33" /></a></div>
+</div>
+<p><br />
+<br />
+</p>
+<div id="mp-upper">
+<div id="mp-left" class="MainPageBG mp-box">
+<h2 id="mp-tfa-h2" class="mp-h2">အထူးအကြောင်းအရာ</h2>
+<div id="mp-tfa" class="mp-contains-float"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/%E1%80%96%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA:Spiders_Diversity.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Spiders_Diversity.jpg/220px-Spiders_Diversity.jpg" decoding="async" width="220" height="307" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Spiders_Diversity.jpg/330px-Spiders_Diversity.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Spiders_Diversity.jpg/440px-Spiders_Diversity.jpg 2x" data-file-width="999" data-file-height="1392" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%E1%80%96%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA:Spiders_Diversity.jpg" class="internal" title="ပုံကြီးချဲ့ရန်"></a></div>ဇီဝမျိုးကွဲ ပင့်ကူ အမျိုးမျိုး</div></div></div>
+<p><b><a href="/wiki/%E1%80%95%E1%80%84%E1%80%B7%E1%80%BA%E1%80%80%E1%80%B0" title="ပင့်ကူ">ပင့်ကူ</a></b>သည် လေကိုရှူ၍ အသက်ရှင်သည့် <a href="/wiki/%E1%80%81%E1%80%BC%E1%80%B1%E1%80%86%E1%80%85%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8_%E1%80%9E%E1%80%90%E1%80%B9%E1%80%90%E1%80%9D%E1%80%AB" title="ခြေဆစ်များ သတ္တဝါ">ခြေဆစ်များသတ္တဝါ</a>ဖြစ်ပြီး၊ ခြေချောင်း ရှစ်ချောင်းနှင့် <i>ချီလစ်ဆာရီ</i> (Chelicerae) ခေါ် အဆိပ်စွယ်များ ပါရှိသည်။ ပင့်ကူအများစုသည် "ပင့်ကူမျှင်" ဟုခေါ်သော <a href="/wiki/%E1%80%95%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%81%E1%80%BB%E1%80%8A%E1%80%BA" title="ပိုးချည်">ပိုးချည်</a>မျှင် ထုတ်နိုင်စွမ်းရှိကြသည်။ <i>အာရက္ကနစ်</i> (<i>Arachnids</i>) ဟု သိပ္ပံအမည်ပေးထားသည့် <a href="/wiki/%E1%80%90%E1%80%AD%E1%80%9B%E1%80%85%E1%80%B9%E1%80%86%E1%80%AC%E1%80%94%E1%80%BA" title="တိရစ္ဆာန်">တိရစ္ဆာန်</a> <a href="/wiki/%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%95%E1%80%B1%E1%80%AB%E1%80%84%E1%80%BA%E1%80%B8" title="မျိုးပေါင်း">မျိုးပေါင်း</a>၏ <a href="/wiki/%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%85%E1%80%89%E1%80%BA" title="မျိုးစဉ်">မျိုးစဉ်</a>တစ်ခုဖြစ်သော ပင့်ကူသည် တိရစ္ဆာန် မျိုးစဉ်အားလုံး၌ သတ္တမမြောက် မျိုးစိတ်အရေအတွက် အများဆုံးဖြစ်သည်။ ၁၉၀၀ ပြည့်နှစ်မှစ၍ မျိုးရိုးခွဲခြမ်းစိတ်ဖြာသည့် ပညာရှင်များက မတူညီသည့် ပင့်ကူအမျိုးအစားကွဲ နှစ်ဆယ်ကျော်အား စတင်အဆိုပြုခဲ့ကြရာ ၂၀၂၁ ခုနှစ် ဩဂုတ်လတွင် ပင့်ကူ<a href="/wiki/%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%85%E1%80%AD%E1%80%90%E1%80%BA" title="မျိုးစိတ်">မျိုးစိတ်</a>ပေါင်း ၄၉၆၂၃ မျိုးကို <a href="/wiki/%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%9B%E1%80%84%E1%80%BA%E1%80%B8" title="မျိုးရင်း">မျိုးရင်း</a>စုစုပေါင်း ၁၂၉ ခုအတွင်း ခွဲခြားသတ်မှတ်၍ မှတ်တမ်းတင်ထားပြီးဖြစ်သည်ဟု သိရသည်။ <a href="/wiki/%E1%80%A1%E1%80%94%E1%80%B9%E1%80%90%E1%80%AC%E1%80%90%E1%80%AD%E1%80%80" title="အန္တာတိက">အန္တာတိကတိုက်</a>ကလွဲ၍ ကမ္ဘာပေါ်ရှိ ကျန်တိုက်ကြီးများအားလုံး၏ (ပင်လယ်ရေထုနှင့် လေထုမှအပ) နေရာဒေသနီးပါးတိုင်းတွင် ပင့်ကူများ နေထိုင်ကျက်စားကြသည်ကို မြင်တွေ့နိုင်သည်။
+</p><p>ပင့်ကူ အားလုံးနီးပါးသည် သားရဲတိရစ္ဆာန်များဖြစ်ကြပြီး <a href="/wiki/%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B8%E1%80%86%E1%80%80%E1%80%BA" title="အင်းဆက်">အင်းဆက်</a>များအား အများဆုံး ဖမ်းယူ စားသောက်လေ့ရှိကြသည်။ သားကောင်ကို အမဲလိုက်ရာတွင်လည်း နည်းလမ်းမျိုးစုံသုံးလေ့ရှိကြသည်။ အချို့က ထောင်ချောက်ဆင်ဖမ်းရန် ပင့်ကူအိမ်ဆောက်လုပ်ကြပြီး အချို့က သားကောင်ထံသို့ ပင့်ကူကြိုးမျှင်ပစ်၍ဖမ်းကြသည်။ အချို့သော ပင့်ကူများမှာ မြေတွင်း၌ ဦးစွာပုန်းအောင်းနေကာ အနီးအနားမှဖြတ်သွားသည့် သားကောင်အား ပြေးထွက်ဖမ်းကြသည်။ အချို့မှာမူ ပင့်ကူမျှင်ဖြင့် ပိုက်ကွန်တစ်ခုရက်လုပ်ပြီး ဖြတ်သွားသည့် သားကောင်အား ထိုပိုက်ကွန်ဖြင့် ကွန်ပစ်သကဲ့သို့ ပစ်၍ဖမ်းယူကြသည့် ပင့်ကူမျိုးလည်း ရှိ၏။ အချို့မှာ ခပ်ဝေးဝေးသို့ပင် ခုန်နိုင်ကြပြီး သားကောင်အနီးအနားသို့ တိတ်တဆိတ်ချဉ်းကပ်ကာ ခုန်အုပ်၍ဖမ်းယူကြသည်။
+</p>
+<i><b><a href="/wiki/%E1%80%95%E1%80%84%E1%80%B7%E1%80%BA%E1%80%80%E1%80%B0" title="ပင့်ကူ">ဆက်လက်ဖတ်ရှုရန်</a></b></i> ...</div>
+</div>
+<div id="mp-right" class="MainPageBG mp-box">
+<h2 id="mp-itn-h2" class="mp-h2"><span id=".E1.80.9E.E1.80.90.E1.80.84.E1.80.BA.E1.80.B8.E1.80.99.E1.80.BB.E1.80.AC.E1.80.B8"></span><span class="mw-headline" id="သတင်းများ">သတင်းများ</span></h2>
+<div id="mp-itn" class="mp-contains-float"><div role="figure" class="itn-img" style="float: right; margin-left: 0.5em;">
+<div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 160px;">
+<a href="/wiki/%E1%80%96%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA:Yoon_Suk-yeol_in_May_2022.jpg" class="image" title="ရွေးကောက်ခံ တောင်ကိုရီးယား သမ္မတသစ် ယွန်းဆော့ယော"><img alt="ရွေးကောက်ခံ တောင်ကိုရီးယား သမ္မတသစ် ယွန်းဆော့ယော" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Yoon_Suk-yeol_in_May_2022.jpg/160px-Yoon_Suk-yeol_in_May_2022.jpg" decoding="async" width="160" height="213" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Yoon_Suk-yeol_in_May_2022.jpg/240px-Yoon_Suk-yeol_in_May_2022.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Yoon_Suk-yeol_in_May_2022.jpg/320px-Yoon_Suk-yeol_in_May_2022.jpg 2x" data-file-width="1125" data-file-height="1500" /></a><div class="thumbcaption" style="padding: 0.25em 0; word-wrap: break-word;">ရွေးကောက်ခံ တောင်ကိုရီးယား သမ္မတသစ် ယွန်းဆော့ယော</div></div>
+</div>
+<ul><li><a href="/wiki/%E1%81%81%E1%81%86_%E1%80%85%E1%80%80%E1%80%BA%E1%80%90%E1%80%84%E1%80%BA%E1%80%98%E1%80%AC" title="၁၆ စက်တင်ဘာ">၁၆ စက်တင်ဘာ</a> ၂၀၂၂ တွင် <a href="/wiki/%E1%80%9C%E1%80%80%E1%80%BA%E1%80%9A%E1%80%80%E1%80%BA%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%B8%E1%80%9B%E1%80%BD%E1%80%AC_%E1%80%95%E1%80%85%E1%80%BA%E1%80%81%E1%80%90%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AF" title="လက်ယက်ကုန်းရွာ ပစ်ခတ်မှု">လက်ယက်ကုန်းရွာ ပစ်ခတ်မှု</a>ကြောင့် လူ ၁၃ ဦး သေဆုံးခဲ့သည်။</li>
+<li><a href="/wiki/%E1%81%82%E1%81%82_%E1%80%99%E1%80%90%E1%80%BA" title="၂၂ မတ်">၂၂ မတ်</a> ၂၀၂၂ တွင် အမျိုးသားစာပေဆုရှင် <b><a href="/wiki/%E1%80%99%E1%80%94%E1%80%AF%E1%80%BF%E1%80%80%E1%80%BB%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%9D%E1%80%84%E1%80%BA%E1%80%B8" title="မနုဿကျော်ဝင်း">မနုဿကျော်ဝင်း</a></b> ကွယ်လွန်သည်။</li>
+<li><a href="/wiki/%E1%81%82%E1%81%80_%E1%80%99%E1%80%90%E1%80%BA" title="၂၀ မတ်">၂၀ မတ်</a> ၂၀၂၂ တွင် (၁၅) ပါးမြောက် <a href="/wiki/%E1%80%9B%E1%80%BD%E1%80%BE%E1%80%B1%E1%80%80%E1%80%BB%E1%80%84%E1%80%BA%E1%80%9E%E1%80%AC%E1%80%9E%E1%80%94%E1%80%AC%E1%80%95%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA" class="mw-redirect" title="ရွှေကျင်သာသနာပိုင်">ရွှေကျင်သာသနာပိုင်</a> <b><a href="/wiki/%E1%80%9D%E1%80%AD%E1%80%87%E1%80%B9%E1%80%87%E1%80%B1%E1%80%AC%E1%80%90%E1%80%AC%E1%80%9B%E1%80%AF%E1%80%B6%E1%80%86%E1%80%9B%E1%80%AC%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA" class="mw-redirect" title="ဝိဇ္ဇောတာရုံဆရာတော်">ဝိဇ္ဇောတာရုံဆရာတော်</a></b> ပျံလွန်တော်မူသည်။</li>
+<li><a href="/wiki/%E1%81%89_%E1%80%99%E1%80%90%E1%80%BA" title="၉ မတ်">၉ မတ်</a> ၂၀၂၂ တွင် <a href="/wiki/%E1%80%90%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%80%E1%80%AD%E1%80%AF%E1%80%9B%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6%E1%81%8F_%E1%80%9E%E1%80%99%E1%80%B9%E1%80%99%E1%80%90" title="တောင်ကိုရီးယားနိုင်ငံ၏ သမ္မတ">တောင်ကိုရီးယား သမ္မတ</a>သစ်အဖြစ် <b><a href="/wiki/%E1%80%9A%E1%80%BD%E1%80%94%E1%80%BA%E1%80%B8%E1%80%86%E1%80%B1%E1%80%AC%E1%80%B7%E1%80%9A%E1%80%B1%E1%80%AC" title="ယွန်းဆော့ယော">ယွန်းဆော့ယော</a></b>က ရွေးကောက်ခံရသည်။</li></ul>
+</div>
+</div>
+</div>
+<div id="mp-lower" class="MainPageBG mp-box">
+<h2 id="mp-tfp-h2" class="mp-h2"><span id=".E1.80.9A.E1.80.94.E1.80.B1.E1.80.B7_.E1.80.A1.E1.80.91.E1.80.B0.E1.80.B8.E1.80.93.E1.80.AC.E1.80.90.E1.80.BA.E1.80.95.E1.80.AF.E1.80.B6"></span><span class="mw-headline" id="ယနေ့_အထူးဓာတ်ပုံ">ယနေ့ အထူးဓာတ်ပုံ</span></h2>
+<div id="mp-tfp">
+<table role="presentation" style="margin:0 3px 3px; width:100%; box-sizing:border-box; text-align:left; background-color:transparent; border-collapse:collapse;">
+<tbody><tr>
+<td style="padding:0 0.9em 0 0; width:350px;"><a href="/wiki/%E1%80%96%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA:Barnard_33.jpg" class="image" title="မြင်းခေါင်း နက်ဗျူလာ"><img alt="မြင်းခေါင်း နက်ဗျူလာ" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Barnard_33.jpg/350px-Barnard_33.jpg" decoding="async" width="350" height="344" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Barnard_33.jpg/525px-Barnard_33.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Barnard_33.jpg/700px-Barnard_33.jpg 2x" data-file-width="3019" data-file-height="2968" /></a>
+</td>
+<td style="padding:0 6px 0 0">
+<p><i><b><a href="/wiki/%E1%80%99%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%81%E1%80%B1%E1%80%AB%E1%80%84%E1%80%BA%E1%80%B8_%E1%80%94%E1%80%80%E1%80%BA%E1%80%97%E1%80%BB%E1%80%B0%E1%80%9C%E1%80%AC" title="မြင်းခေါင်း နက်ဗျူလာ">မြင်းခေါင်း နက်ဗျူလာ</a></b></i> သည် <a href="/wiki/%E1%80%A1%E1%80%AD%E1%80%AF%E1%80%9B%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%9A%E1%80%BD%E1%80%94%E1%80%BA_(%E1%80%80%E1%80%BC%E1%80%9A%E1%80%BA%E1%80%85%E1%80%AF%E1%80%90%E1%80%94%E1%80%BA%E1%80%B8)" title="အိုရိုင်ယွန် (ကြယ်စုတန်း)">အိုရိုင်ယွန် ကြယ်စုတန်း</a>မှ နက်ဗျူလာနက်ဖြစ်သည်။ ယင်းအား ၁၈၈၈ ခုနှစ်တွင် စကော့တလန်လူမျိုး နက္ခတ္တပညာရှင် Williamina Fleming ဆိုသူက ဟာဗတ်ကောလိပ် နက္ခတာရာမျှော်စင်၌ ပထမဆုံး မှတ်တမ်းတင်ခဲ့သည်။ မြင်းခေါင်း နက်ဗျူလာသည် ကမ္ဘာမြေမှ <a href="/wiki/%E1%80%A1%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B8%E1%80%94%E1%80%BE%E1%80%85%E1%80%BA" title="အလင်းနှစ်">အလင်းနှစ်</a> ၁၅၀၀ နီးပါး ကွာဝေးသည်။ ယင်းနက်ဗျူလာသည် ကမ္ဘာမြေမှ ကြည့်ပါက မြင်းခေါင်းနှင့်တူသောကြောင့် ခွဲခြားမှတ်သားရန် အလွယ်ကူဆုံး <a href="/wiki/%E1%80%94%E1%80%80%E1%80%BA%E1%80%97%E1%80%BB%E1%80%B0%E1%80%9C%E1%80%AC" title="နက်ဗျူလာ">နက်ဗျူလာ</a>များထဲမှ တစ်ခုဖြစ်သည်။ နက်ဗျူလာ၏ အနီရောင်သမ်းနေသောအပိုင်းသည် နောက်ကွယ်မှ ဟိုက်ဒရိုဂျင် ဓာတ်ငွေ့ ကြောင့်ဖြစ်သည်။ မှောင်သော အခြမ်းများမှာ အလင်းအား ကာဆီးနေသည့် ထူထပ်သော ဖုန်မှုန်များကြောင့် ဖြစ်သည်။
+</p>
+<p style="text-align:left;"><small>ဓာတ်ပုံ။ <a href="https://en.wikipedia.org/wiki/Ken_Crawford_(astrophotographer)" class="extiw" title="en:Ken Crawford (astrophotographer)">Ken Crawford</a></small></p>
+</td></tr></tbody></table></div>
+</div>
+<div id="mp-middle" class="mp-box">
+<h2 id="mp-about-h2" class="mp-h2"><span id=".E1.80.9D.E1.80.AE.E1.80.80.E1.80.AE.E1.80.95.E1.80.AE.E1.80.B8.E1.80.92.E1.80.AE.E1.80.B8.E1.80.9A.E1.80.AC.E1.80.B8.E1.80.A1.E1.80.80.E1.80.BC.E1.80.B1.E1.80.AC.E1.80.84.E1.80.BA.E1.80.B8"></span><span class="mw-headline" id="ဝီကီပီးဒီးယားအကြောင်း">ဝီကီပီးဒီးယားအကြောင်း</span></h2>
+<div id="mp-about"><b><a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:About" class="mw-redirect" title="ဝီကီပီးဒီးယား:About">ဝီကီပီးဒီးယား</a></b>သည် သုံးစွဲသူများက ပူးပေါင်း၍ ရေးသားတည်းဖြတ်သော စွယ်စုံကျမ်းဖြစ်ပါသည်။ ဝီကီဟု ခေါ်သော ဝက်ဘ်ဆိုက် ပုံစံတစ်မျိုးကို အသုံးပြု၍ ပူးပေါင်းရေးသားခြင်းကို အဆင်ပြေစေရန် စီမံထားခြင်း ဖြစ်ပါသည်။ သုံးစွဲသူများမှ နာရီအလိုက် ပြင်ဆင်မှုပေါင်း များစွာကို ပြုလုပ်၍ ဝီကီပီးဒီးယားကို ပို၍ကောင်းမွန်အောင် ဆောင်ရွက်နေကြပါသည်။ မြန်မာဝီကီပီးဒီးယားတွင် ယူနီကုဒ် ၅.၂ စံနှုန်းကို လိုက်နာသော မည်သည့်ဖောင့်အမျိုးအစား နှင့်မဆို ဖတ်ရှုခြင်း၊ တည်းဖြတ်ခြင်းများ ပြုလုပ်နိုင်ပါသည်။</div>
+<h2 id="help-h2" class="mp-h2"><span id=".E1.80.A1.E1.80.80.E1.80.B0.E1.80.A1.E1.80.8A.E1.80.AE"></span><span class="mw-headline" id="အကူအညီ">အကူအညီ</span></h2>
+<div id="mp-help">
+<ul><li>ဝီကီပီးဒီးယားကို မည်သည့် ယူနီကုဒ်ဖောင့်ကို မဆို အသုံးပြု၍​ ဖတ်ရှုရေးသားနိုင်ပါသည်။</li>
+<li>မြန်မာဘာသာပြန်သူများအတွက် ညာဘက် အပေါ်ထောင့်ရှိ "ဆောင်ရွက်ချက်များ" အောက်မှ "ဘာသာပြန်များ"​ ကို အသုံးပြု၍ <a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:ContentTranslation" title="အထူး:ContentTranslation">Translation Tool</a> ၏ အကူအညီရယူ၍ ဘာသာပြန်နိုင်ပါသည်။</li>
+<li><a class="external text" href="https://my.wiktionary.org/wiki/Wiktionary:သတ်ပုံ">သတ်ပုံကျမ်း</a> တွင် စာလုံးပေါင်း၊ သတ်ပုံသတ်ညွှန်းများ စစ်နိုင်ပါသည်။</li>
+<li>နမူနာကြည့်ရန်နှင့် အလွယ်တကူ နားလည်စေရန် <a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:%E1%80%94%E1%80%AD%E1%80%92%E1%80%AB%E1%80%94%E1%80%BA%E1%80%B8" title="ဝီကီပီးဒီးယား:နိဒါန်း">နိဒါန်း</a>ကို အရင်ဖတ်ပါ။</li>
+<li>မြန်မာဝီကီပီးဒီးယားသည် <a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:Five_pillars" title="ဝီကီပီးဒီးယား:Five pillars">မဏ္ဍိုင်ငါးခု</a> (နိယာမ ၅ ခု) ရှိပါသည်။</li>
+<li>မေးစရာရှိလျှင် <a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:Questions" title="ဝီကီပီးဒီးယား:Questions">ဤစာမျက်နှာ</a>မှာ မေးပါ။</li>
+<li>အကူအညီများ လိုအပ်လျှင် <a href="/wiki/%E1%80%A1%E1%80%80%E1%80%B0%E1%80%A1%E1%80%8A%E1%80%AE:Contents" class="mw-redirect" title="အကူအညီ:Contents">ဤစာမျက်နှာ</a>ကို သွားပါ။</li>
+<li>တည်းဖြတ်လို၊ အကျဉ်းချုပ်လိုလျှင် <a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:Cheatsheet" class="mw-redirect" title="ဝီကီပီးဒီးယား:Cheatsheet">တည်းဖြတ်ခြင်းအတိုချုပ်</a>ကို ကြည့်ရှုပါ။</li>
+<li>စမ်းသပ်ကြည့်လိုလျင် <a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:Sandbox" title="ဝီကီပီးဒီးယား:Sandbox">ဤစာမျက်နှာ</a>ကို သုံးပြီး စာမျက်နှာတည်းဖြတ်မှုကို စမ်းသပ်နိုင်ပါသည်။</li>
+<li>တည်းဖြတ်ခြင်းအကြောင်း နှိုက်နှိုက်ချွတ်ချွတ်လေ့လာလိုပါက <a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:%E1%80%86%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8%E1%80%80%E1%80%AD%E1%80%AF_%E1%80%90%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%96%E1%80%BC%E1%80%90%E1%80%BA%E1%80%81%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8" title="ဝီကီပီးဒီးယား:ဆောင်းပါးများကို တည်းဖြတ်ခြင်း">ဤစာမျက်နှာ</a>ကို ဖတ်ပါ။</li>
+<li>အခြား အကြံပေးခြင်း၊ ဆွေးနွေးခြင်းများအတွက် <a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:%E1%80%9C%E1%80%80%E1%80%BA%E1%80%96%E1%80%80%E1%80%BA%E1%80%9B%E1%80%8A%E1%80%BA%E1%80%86%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA" title="ဝီကီပီးဒီးယား:လက်ဖက်ရည်ဆိုင်">မြန်မာဝီကီပီးဒီးယား လက်ဖက်ရည်ဆိုင်</a> (သို့) <a rel="nofollow" class="external text" href="https://www.facebook.com/groups/my.wikipedia/">မြန်မာဝီကီ ဖေ့စ်ဘွတ်ခ်</a>တွင် ဝင်ရောက် ပြောဆိုနိုင်ပါသည်။</li></ul></div>
+</div>
+<div id="mp-bottom" class="mp-box">
+<h2 id="mp-other" class="mp-h2"><span id=".E1.80.80.E1.80.8F.E1.80.B9.E1.80.8D.E1.80.A1.E1.80.8A.E1.80.BD.E1.80.BE.E1.80.94.E1.80.BA.E1.80.B8"></span><span class="mw-headline" id="ကဏ္ဍအညွှန်း">ကဏ္ဍအညွှန်း</span></h2>
+<div id="mp-other-content">
+<table width="100%">
+<tbody><tr>
+<td valign="top"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ကဏ္ဍ:မြန်မာနိုင်ငံ"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_map_of_Burma_%28Myanmar%29.svg/30px-Flag_map_of_Burma_%28Myanmar%29.svg.png" decoding="async" width="30" height="66" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_map_of_Burma_%28Myanmar%29.svg/45px-Flag_map_of_Burma_%28Myanmar%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_map_of_Burma_%28Myanmar%29.svg/60px-Flag_map_of_Burma_%28Myanmar%29.svg.png 2x" data-file-width="550" data-file-height="1203" /></a>
+</td>
+<td style="width:100%; text-align:center; vertical-align:top;"><div style="font-size:120%;"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ကဏ္ဍ:မြန်မာနိုင်ငံ"><b>မြန်မာနိုင်ငံ</b></a></div>
+<p><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6%E1%81%8F_%E1%80%85%E1%80%AE%E1%80%B8%E1%80%95%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%9B%E1%80%B1%E1%80%B8" title="ကဏ္ဍ:မြန်မာနိုင်ငံ၏ စီးပွားရေး">စီးပွားရေး</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6%E1%81%8F_%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6%E1%80%9B%E1%80%B1%E1%80%B8" title="ကဏ္ဍ:မြန်မာနိုင်ငံ၏ နိုင်ငံရေး">နိုင်ငံရေး</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6%E1%81%8F_%E1%80%95%E1%80%8A%E1%80%AC%E1%80%9B%E1%80%B1%E1%80%B8" title="ကဏ္ဍ:မြန်မာနိုင်ငံ၏ ပညာရေး">ပညာရေး</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6_%E1%80%95%E1%80%91%E1%80%9D%E1%80%AE%E1%80%9D%E1%80%84%E1%80%BA" title="ကဏ္ဍ:မြန်မာနိုင်ငံ ပထဝီဝင်">ပထဝီဝင်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6%E1%81%8F_%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC%E1%80%85%E1%80%80%E1%80%AC%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ကဏ္ဍ:မြန်မာနိုင်ငံ၏ ဘာသာစကားများ">ဘာသာစကားများ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%B7_%E1%80%9A%E1%80%89%E1%80%BA%E1%80%80%E1%80%BB%E1%80%B1%E1%80%B8%E1%80%99%E1%80%BE%E1%80%AF" title="ကဏ္ဍ:မြန်မာ့ ယဉ်ကျေးမှု">ယဉ်ကျေးမှု</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6%E1%80%9C%E1%80%B0%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ကဏ္ဍ:မြန်မာနိုင်ငံလူမျိုးများ">လူမျိုးများ</a>‎&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%B7_%E1%80%9E%E1%80%99%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8" class="mw-redirect" title="ကဏ္ဍ:မြန်မာ့ သမိုင်း">သမိုင်း‎</a>‎&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%9C%E1%80%B0%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8_%E1%80%A1%E1%80%90%E1%80%B9%E1%80%91%E1%80%AF%E1%80%95%E1%80%B9%E1%80%95%E1%80%90%E1%80%B9%E1%80%90%E1%80%AD" title="ကဏ္ဍ:မြန်မာလူမျိုးများ အတ္ထုပ္ပတ္တိ">အတ္ထုပ္ပတ္တိ‎</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6%E1%81%8F_%E1%80%A1%E1%80%AF%E1%80%95%E1%80%BA%E1%80%81%E1%80%BB%E1%80%AF%E1%80%95%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8" title="ကဏ္ဍ:မြန်မာနိုင်ငံ၏ အုပ်ချုပ်ရေး">အုပ်ချုပ်ရေး‎</a>
+</p>
+</td>
+<td valign="top"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ကဏ္ဍ:မြန်မာနိုင်ငံ"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/State_seal_of_Myanmar.svg/50px-State_seal_of_Myanmar.svg.png" decoding="async" width="50" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/State_seal_of_Myanmar.svg/75px-State_seal_of_Myanmar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/State_seal_of_Myanmar.svg/100px-State_seal_of_Myanmar.svg.png 2x" data-file-width="512" data-file-height="418" /></a>
+</td></tr></tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+
+<tbody><tr>
+<td valign="top"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%80%E1%80%BB%E1%80%94%E1%80%BA%E1%80%B8%E1%80%99%E1%80%AC%E1%80%9B%E1%80%B1%E1%80%B8" title="ကဏ္ဍ:ကျန်းမာရေး"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Star_of_life_globe.svg/50px-Star_of_life_globe.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Star_of_life_globe.svg/75px-Star_of_life_globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Star_of_life_globe.svg/100px-Star_of_life_globe.svg.png 2x" data-file-width="60" data-file-height="60" /></a>
+</td>
+<td width="50%" align="left" style="font-size:100%;border-top:1px dashed #AAAAAA"><div style="font-size:130%;"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%80%E1%80%BB%E1%80%94%E1%80%BA%E1%80%B8%E1%80%99%E1%80%AC%E1%80%9B%E1%80%B1%E1%80%B8" title="ကဏ္ဍ:ကျန်းမာရေး"><b>ကျန်းမာရေး</b></a></div>
+<p><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%95%E1%80%BC%E1%80%8A%E1%80%BA%E1%80%9E%E1%80%B0%E1%80%B7_%E1%80%80%E1%80%BB%E1%80%94%E1%80%BA%E1%80%B8%E1%80%99%E1%80%AC%E1%80%9B%E1%80%B1%E1%80%B8" title="ကဏ္ဍ:ပြည်သူ့ ကျန်းမာရေး">ပြည်သူ့ကျန်းမာရေး</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%86%E1%80%B1%E1%80%B8%E1%80%95%E1%80%8A%E1%80%AC" title="ကဏ္ဍ:ဆေးပညာ">ဆေးပညာ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%86%E1%80%B1%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ကဏ္ဍ:ဆေးများ">ဆေးများ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9B%E1%80%B1%E1%80%AC%E1%80%82%E1%80%AB" title="ကဏ္ဍ:ရောဂါ">ရောဂါ</a>
+</p>
+</td>
+<td valign="top"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC%E1%80%9B%E1%80%B1%E1%80%B8" title="ကဏ္ဍ:ဘာသာရေး"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Religious_symbols.png/50px-Religious_symbols.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Religious_symbols.png/75px-Religious_symbols.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Religious_symbols.png/100px-Religious_symbols.png 2x" data-file-width="900" data-file-height="900" /></a>
+</td>
+<td width="50%" align="left" style="font-size:100%;border-top:1px dashed #AAAAAA"><div style="font-size:120%;"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC%E1%80%9B%E1%80%B1%E1%80%B8" title="ကဏ္ဍ:ဘာသာရေး"><b>ဘာသာရေး</b></a></div>
+<p><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%81%E1%80%9B%E1%80%85%E1%80%BA%E1%80%9A%E1%80%AC%E1%80%94%E1%80%BA%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC" title="ကဏ္ဍ:ခရစ်ယာန်ဘာသာ">ခရစ်ယာန်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%82%E1%80%BB%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC" title="ဂျိန်းဘာသာ">ဂျိန်း</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%82%E1%80%BB%E1%80%B0%E1%80%B8%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC" title="ဂျူးဘာသာ">ဂျူး</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%86%E1%80%85%E1%80%BA%E1%80%81%E1%80%BA%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC" title="ဆစ်ခ်ဘာသာ">ဆစ်ခ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%97%E1%80%AF%E1%80%92%E1%80%B9%E1%80%93%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC" title="ကဏ္ဍ:ဗုဒ္ဓဘာသာ">ဗုဒ္ဓ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9F%E1%80%AD%E1%80%94%E1%80%B9%E1%80%92%E1%80%B0%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC" title="ကဏ္ဍ:ဟိန္ဒူဘာသာ">ဟိန္ဒူ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%A1%E1%80%85%E1%80%B9%E1%80%85%E1%80%9C%E1%80%AC%E1%80%99%E1%80%BA%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC" title="ကဏ္ဍ:အစ္စလာမ်ဘာသာ">အစ္စလာမ်</a>
+</p>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9E%E1%80%AD%E1%80%95%E1%80%B9%E1%80%95%E1%80%B6" title="ကဏ္ဍ:သိပ္ပံ"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Crystal_Clear_app_katomic.png/55px-Crystal_Clear_app_katomic.png" decoding="async" width="55" height="55" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Crystal_Clear_app_katomic.png/83px-Crystal_Clear_app_katomic.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Crystal_Clear_app_katomic.png/110px-Crystal_Clear_app_katomic.png 2x" data-file-width="128" data-file-height="128" /></a>
+</td>
+<td width="50%" align="left" style="font-size:100%;border-top:1px dashed #AAAAAA"><div style="font-size:120%;"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9E%E1%80%AD%E1%80%95%E1%80%B9%E1%80%95%E1%80%B6" title="ကဏ္ဍ:သိပ္ပံ"><b>သိပ္ပံ</b></a></div>
+<p><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%87%E1%80%AE%E1%80%9D%E1%80%97%E1%80%B1%E1%80%92" title="ကဏ္ဍ:ဇီဝဗေဒ">ဇီဝဗေဒ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%93%E1%80%AC%E1%80%90%E1%80%AF%E1%80%97%E1%80%B1%E1%80%92" title="ကဏ္ဍ:ဓာတုဗေဒ">ဓာတုဗေဒ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%94%E1%80%80%E1%80%B9%E1%80%81%E1%80%90%E1%80%B9%E1%80%90%E1%80%97%E1%80%B1%E1%80%92" title="ကဏ္ဍ:နက္ခတ္တဗေဒ">‎နက္ခတ္တဗေဒ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%98%E1%80%B0%E1%80%99%E1%80%AD%E1%80%97%E1%80%B1%E1%80%92" title="ကဏ္ဍ:ဘူမိဗေဒ">ဘူမိဗေဒ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9B%E1%80%AF%E1%80%80%E1%80%B9%E1%80%81%E1%80%97%E1%80%B1%E1%80%92" title="ကဏ္ဍ:ရုက္ခဗေဒ">ရုက္ခဗေဒ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9B%E1%80%B0%E1%80%95%E1%80%97%E1%80%B1%E1%80%92" title="ကဏ္ဍ:ရူပဗေဒ">ရူပဗေဒ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9E%E1%80%90%E1%80%B9%E1%80%90%E1%80%97%E1%80%B1%E1%80%92" title="ကဏ္ဍ:သတ္တဗေဒ">သတ္တဗေဒ</a>
+</p>
+</td>
+<td valign="top"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9A%E1%80%89%E1%80%BA%E1%80%80%E1%80%BB%E1%80%B1%E1%80%B8%E1%80%99%E1%80%BE%E1%80%AF" title="ကဏ္ဍ:ယဉ်ကျေးမှု"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tango_Globe_of_Letters.svg/50px-Tango_Globe_of_Letters.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tango_Globe_of_Letters.svg/75px-Tango_Globe_of_Letters.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tango_Globe_of_Letters.svg/100px-Tango_Globe_of_Letters.svg.png 2x" data-file-width="128" data-file-height="128" /></a>
+</td>
+<td width="50%" align="left" style="font-size:100%;border-top:1px dashed #AAAAAA"><div style="font-size:120%;"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9A%E1%80%89%E1%80%BA%E1%80%80%E1%80%BB%E1%80%B1%E1%80%B8%E1%80%99%E1%80%BE%E1%80%AF" title="ကဏ္ဍ:ယဉ်ကျေးမှု"><b>ယဉ်ကျေးမှု</b></a></div>
+<p><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%80%E1%80%97%E1%80%BB%E1%80%AC" title="ကဏ္ဍ:ကဗျာ">ကဗျာ‎‎</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%82%E1%80%AE%E1%80%90" title="ကဏ္ဍ:ဂီတ">‎ဂီတ‎‎</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%82%E1%80%AD%E1%80%99%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ကဏ္ဍ:ဂိမ်းများ">ဂိမ်းများ‎‎</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%85%E1%80%AC%E1%80%95%E1%80%B1" title="ကဏ္ဍ:စာပေ">‎စာပေ‎‎</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%96%E1%80%BB%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%96%E1%80%BC%E1%80%B1%E1%80%9B%E1%80%B1%E1%80%B8" title="ကဏ္ဍ:ဖျော်ဖြေရေး">‎ဖျော်ဖြေရေး</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9B%E1%80%AF%E1%80%95%E1%80%BA%E1%80%9B%E1%80%BE%E1%80%84%E1%80%BA" title="ကဏ္ဍ:ရုပ်ရှင်">‎ရုပ်ရှင်‎</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%95%E1%80%94%E1%80%BA%E1%80%B8%E1%80%81%E1%80%BB%E1%80%AE" title="ကဏ္ဍ:ပန်းချီ">‎ပန်းချီ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%95%E1%80%BC%E1%80%90%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ကဏ္ဍ:ပြတိုက်များ">‎ပြတိုက်များ‎‎</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%95%E1%80%BD%E1%80%B2%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ကဏ္ဍ:ပွဲတော်များ">‎ပွဲတော်များ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%97%E1%80%AD%E1%80%9E%E1%80%AF%E1%80%80%E1%80%AC%E1%80%95%E1%80%8A%E1%80%AC" title="ကဏ္ဍ:ဗိသုကာပညာ">ဗိသုကာ‎‎</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC%E1%80%85%E1%80%80%E1%80%AC%E1%80%B8" title="ကဏ္ဍ:ဘာသာစကား">‎ဘာသာစကား</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%A1%E1%80%94%E1%80%AF%E1%80%95%E1%80%8A%E1%80%AC" title="ကဏ္ဍ:အနုပညာ">အနုပညာ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%80%E1%80%85%E1%80%AC%E1%80%B8" title="ကဏ္ဍ:အားကစား">‎အားကစား</a>
+</p>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%94%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%95%E1%80%8A%E1%80%AC" title="ကဏ္ဍ:နည်းပညာ"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crystal_Clear_app_kcmmemory.png/50px-Crystal_Clear_app_kcmmemory.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crystal_Clear_app_kcmmemory.png/75px-Crystal_Clear_app_kcmmemory.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crystal_Clear_app_kcmmemory.png/100px-Crystal_Clear_app_kcmmemory.png 2x" data-file-width="128" data-file-height="128" /></a>
+</td>
+<td width="50%" align="left" style="font-size:100%;border-top:1px dashed #AAAAAA"><div style="font-size:120%;"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%94%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%95%E1%80%8A%E1%80%AC" title="ကဏ္ဍ:နည်းပညာ"><b>နည်းပညာ</b></a></div>
+<p><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%80%E1%80%BD%E1%80%94%E1%80%BA%E1%80%95%E1%80%BB%E1%80%B0%E1%80%90%E1%80%AC" title="ကဏ္ဍ:ကွန်ပျူတာ">ကွန်ပျူတာ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%86%E1%80%80%E1%80%BA%E1%80%9E%E1%80%BD%E1%80%9A%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8" title="ကဏ္ဍ:ဆက်သွယ်ရေး">ဆက်သွယ်ရေး</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%86%E1%80%B1%E1%80%AC%E1%80%B7%E1%80%96%E1%80%BA%E1%80%9D%E1%80%B2%E1%80%9C%E1%80%BA" title="ကဏ္ဍ:ဆော့ဖ်ဝဲလ်">ဆော့ဖ်ဝဲလ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9E%E1%80%9A%E1%80%BA%E1%80%9A%E1%80%B0%E1%80%95%E1%80%AD%E1%80%AF%E1%80%B7%E1%80%86%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8" title="ကဏ္ဍ:သယ်ယူပို့ဆောင်ရေး">သယ်ယူပို့ဆောင်ရေး</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%A1%E1%80%AE%E1%80%9C%E1%80%80%E1%80%BA%E1%80%91%E1%80%9B%E1%80%BD%E1%80%94%E1%80%BA%E1%80%B8%E1%80%94%E1%80%85%E1%80%BA" title="ကဏ္ဍ:အီလက်ထရွန်းနစ်">အီလက်ထရွန်းနစ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%A1%E1%80%84%E1%80%BA%E1%80%82%E1%80%BB%E1%80%84%E1%80%BA%E1%80%94%E1%80%AE%E1%80%9A%E1%80%AC_%E1%80%95%E1%80%8A%E1%80%AC%E1%80%9B%E1%80%95%E1%80%BA" title="ကဏ္ဍ:အင်ဂျင်နီယာ ပညာရပ်">အင်ဂျင်နီယာ</a>
+</p>
+</td>
+<td valign="top"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%95%E1%80%91%E1%80%9D%E1%80%AE%E1%80%9D%E1%80%84%E1%80%BA" title="ကဏ္ဍ:ပထဝီဝင်"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erioll_world_2.svg/50px-Erioll_world_2.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erioll_world_2.svg/75px-Erioll_world_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erioll_world_2.svg/100px-Erioll_world_2.svg.png 2x" data-file-width="256" data-file-height="256" /></a>
+</td>
+<td width="50%" align="left" style="font-size:100%;border-top:1px dashed #AAAAAA;"><div style="font-size:120%;"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%95%E1%80%91%E1%80%9D%E1%80%AE%E1%80%9D%E1%80%84%E1%80%BA" title="ကဏ္ဍ:ပထဝီဝင်"><b>ပထဝီဝင်</b></a></div>
+<p><a href="/wiki/%E1%80%82%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%9F%E1%80%BA" title="ဂြိုဟ်">ဂြိုဟ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%99%E1%80%B9%E1%80%98%E1%80%AC" class="mw-redirect" title="ကမ္ဘာ">ကမ္ဘာ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%90%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA" title="တိုက်">တိုက်</a>&#160;&#8226;&#32;(<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%90%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%A1%E1%80%99%E1%80%B1%E1%80%9B%E1%80%AD%E1%80%80%E1%80%90%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA" title="ကဏ္ဍ:တောင်အမေရိကတိုက်">တောင်အမေရိက</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%A1%E1%80%99%E1%80%B1%E1%80%9B%E1%80%AD%E1%80%80%E1%80%90%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA" title="ကဏ္ဍ:မြောက်အမေရိကတိုက်">မြောက်အမေရိက</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%A1%E1%80%AC%E1%80%96%E1%80%9B%E1%80%AD%E1%80%80%E1%80%90%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA" title="ကဏ္ဍ:အာဖရိကတိုက်">အာဖရိက</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%A1%E1%80%AC%E1%80%9B%E1%80%BE%E1%80%90%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA" title="ကဏ္ဍ:အာရှတိုက်">အာရှ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%A1%E1%80%94%E1%80%B9%E1%80%90%E1%80%AC%E1%80%90%E1%80%AD%E1%80%80" title="အန္တာတိက">အန္တာတိက</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%A5%E1%80%9B%E1%80%B1%E1%80%AC%E1%80%95" class="mw-redirect" title="ကဏ္ဍ:ဥရောပ">ဥရောပ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%A9%E1%80%85%E1%80%90%E1%80%BC%E1%80%B1%E1%80%B8%E1%80%9C%E1%80%BB%E1%80%90%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA" title="ဩစတြေးလျတိုက်">ဩစတြေးလျ</a>)&#160;&#8226;&#32;<a href="/wiki/%E1%80%A1%E1%80%AD%E1%80%AF%E1%80%9B%E1%80%BE%E1%80%94%E1%80%BA%E1%80%B8%E1%80%94%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8" title="အိုရှန်းနီးယား">အိုရှန်းနီးယား</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%90%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ကဏ္ဍ:တောင်များ">တောင်များ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6" title="ကဏ္ဍ:နိုင်ငံ">နိုင်ငံ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%95%E1%80%84%E1%80%BA%E1%80%9C%E1%80%9A%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ကဏ္ဍ:ပင်လယ်များ">ပင်လယ်</a> &#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%85%E1%80%BA" title="ကဏ္ဍ:မြစ်">မြစ်များ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%99%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%B7%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ကဏ္ဍ:မြို့များ">မြို့များ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9B%E1%80%B1%E1%80%91%E1%80%AF" title="ကဏ္ဍ:ရေထု">ရေထု</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9B%E1%80%B1%E1%80%80%E1%80%94%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="ကဏ္ဍ:ရေကန်များ">ရေကန်များ</a>
+</p>
+</td></tr></tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+
+<tbody><tr>
+<td valign="top"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9C%E1%80%B0%E1%80%B7%E1%80%A1%E1%80%96%E1%80%BD%E1%80%B2%E1%80%B7%E1%80%A1%E1%80%85%E1%80%8A%E1%80%BA%E1%80%B8" title="ကဏ္ဍ:လူ့အဖွဲ့အစည်း"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/50px-Crystal_Clear_app_Login_Manager.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/75px-Crystal_Clear_app_Login_Manager.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Crystal_Clear_app_Login_Manager.png/100px-Crystal_Clear_app_Login_Manager.png 2x" data-file-width="128" data-file-height="128" /></a>
+</td>
+<td width="50%" align="left" style="font-size:100%;border-top:1px dashed #AAAAAA"><div style="font-size:120%;"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9C%E1%80%B0%E1%80%B7%E1%80%A1%E1%80%96%E1%80%BD%E1%80%B2%E1%80%B7%E1%80%A1%E1%80%85%E1%80%8A%E1%80%BA%E1%80%B8" title="ကဏ္ဍ:လူ့အဖွဲ့အစည်း"><b>လူ့အဖွဲ့အစည်း</b></a></div>
+<p><a href="/wiki/%E1%80%99%E1%80%94%E1%80%AF%E1%80%BF%E1%80%97%E1%80%B1%E1%80%92" title="မနုဿဗေဒ">မနုဿဗေဒ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%95%E1%80%8A%E1%80%AC%E1%80%9B%E1%80%B1%E1%80%B8" title="ပညာရေး">ပညာရေး</a>&#160;&#8226;&#32;(<a href="/wiki/%E1%80%80%E1%80%BB%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8" title="ကျောင်း">ကျောင်း</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%B1%E1%80%AC%E1%80%9C%E1%80%AD%E1%80%95%E1%80%BA" title="ကောလိပ်">ကောလိပ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%90%E1%80%80%E1%80%B9%E1%80%80%E1%80%9E%E1%80%AD%E1%80%AF%E1%80%9C%E1%80%BA" title="တက္ကသိုလ်">တက္ကသိုလ်</a>)&#160;&#8226;&#32;<a href="/wiki/%E1%80%9C%E1%80%B0%E1%80%B7%E1%80%98%E1%80%9D" title="လူ့ဘဝ">လူ့ဘဝ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%99%E1%80%AD%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%85%E1%80%AF" title="မိသားစု">မိသားစု</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%9E%E1%80%98%E1%80%AC%E1%80%9D%E1%80%90%E1%80%B9%E1%80%91%E1%80%97%E1%80%B1%E1%80%92" title="သဘာဝတ္ထဗေဒ">သဘာဝတ္ထဗေဒ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%92%E1%80%BF%E1%80%94%E1%80%95%E1%80%8A%E1%80%AC" title="ဒဿနပညာ">ဒဿနပညာ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC%E1%80%97%E1%80%B1%E1%80%92" title="ဘာသာဗေဒ">ဘာသာဗေဒ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%A5%E1%80%95%E1%80%92%E1%80%B1%E1%80%95%E1%80%8A%E1%80%AC" class="mw-redirect" title="ဥပဒေပညာ">ဥပဒေပညာ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%9C%E1%80%B0%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8" title="လူမျိုး">လူမျိုး</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%9C%E1%80%80%E1%80%BA%E1%80%91%E1%80%95%E1%80%BA%E1%80%91%E1%80%AD%E1%80%99%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BC%E1%80%AC%E1%80%B8%E1%80%81%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8" class="mw-redirect" title="လက်ထပ်ထိမ်းမြားခြင်း">လက်ထပ်ထိမ်းမြားခြင်း</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%84%E1%80%B6%E1%80%9B%E1%80%B1%E1%80%B8" title="နိုင်ငံရေး">နိုင်ငံရေး</a>
+</p>
+</td>
+<td valign="top"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9E%E1%80%99%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8" title="သမိုင်း"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gnome_globe_current_event_2.svg/50px-Gnome_globe_current_event_2.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gnome_globe_current_event_2.svg/75px-Gnome_globe_current_event_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gnome_globe_current_event_2.svg/100px-Gnome_globe_current_event_2.svg.png 2x" data-file-width="145" data-file-height="145" /></a>
+</td>
+<td width="50%" align="left" style="font-size:100%;border-top:1px dashed #AAAAAA"><div style="font-size:120%;"><a href="/wiki/%E1%80%80%E1%80%8F%E1%80%B9%E1%80%8D:%E1%80%9E%E1%80%99%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8" title="ကဏ္ဍ:သမိုင်း"><b>သမိုင်း</b></a></div>
+<p><a href="/wiki/%E1%80%9B%E1%80%BE%E1%80%B1%E1%80%B8%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9E%E1%80%AF%E1%80%90%E1%80%B1%E1%80%9E%E1%80%94%E1%80%95%E1%80%8A%E1%80%AC" title="ရှေးဟောင်းသုတေသနပညာ">ရှေးဟောင်းသုတေသနပညာ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%80%E1%80%BB%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%81%E1%80%B1%E1%80%90%E1%80%BA" title="ကျောက်ခေတ်">ကျောက်ခေတ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%9B%E1%80%B1%E1%80%81%E1%80%B2%E1%80%81%E1%80%B1%E1%80%90%E1%80%BA" title="ရေခဲခေတ်">ရေခဲခေတ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%9E%E1%80%B6%E1%80%81%E1%80%B1%E1%80%90%E1%80%BA" title="သံခေတ်">သံခေတ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%9B%E1%80%BE%E1%80%B1%E1%80%B8%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%A1%E1%80%AE%E1%80%82%E1%80%BB%E1%80%85%E1%80%BA" title="ရှေးဟောင်းအီဂျစ်">ရှေးဟောင်းအီဂျစ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%A1%E1%80%99%E1%80%BE%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%81%E1%80%B1%E1%80%90%E1%80%BA" title="အမှောင်ခေတ်">အမှောင်ခေတ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%A1%E1%80%9C%E1%80%9A%E1%80%BA%E1%80%81%E1%80%B1%E1%80%90%E1%80%BA" title="အလယ်ခေတ်">အလယ်ခေတ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%9B%E1%80%AE%E1%80%94%E1%80%B1%E1%80%86%E1%80%BD%E1%80%94%E1%80%BA%E1%80%B8%E1%80%81%E1%80%B1%E1%80%90%E1%80%BA" class="mw-redirect" title="ရီနေဆွန်းခေတ်">ရီနေဆွန်းခေတ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%97%E1%80%BC%E1%80%AD%E1%80%90%E1%80%AD%E1%80%9E%E1%80%BB%E1%80%BE%E1%80%A1%E1%80%84%E1%80%BA%E1%80%95%E1%80%AB%E1%80%9A%E1%80%AC" title="ဗြိတိသျှအင်ပါယာ">ဗြိတိသျှအင်ပါယာ</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%95%E1%80%91%E1%80%99%E1%80%80%E1%80%99%E1%80%B9%E1%80%98%E1%80%AC%E1%80%85%E1%80%85%E1%80%BA" class="mw-redirect" title="ပထမကမ္ဘာစစ်">ပထမကမ္ဘာစစ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%92%E1%80%AF%E1%80%90%E1%80%AD%E1%80%9A%E1%80%80%E1%80%99%E1%80%B9%E1%80%98%E1%80%AC%E1%80%85%E1%80%85%E1%80%BA" class="mw-redirect" title="ဒုတိယကမ္ဘာစစ်">ဒုတိယကမ္ဘာစစ်</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%B7%E1%80%9E%E1%80%99%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8" title="မြန်မာ့သမိုင်း">မြန်မာ့သမိုင်း</a>&#160;&#8226;&#32;<a href="/wiki/%E1%80%85%E1%80%85%E1%80%BA%E1%80%A1%E1%80%B1%E1%80%B8%E1%80%90%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA%E1%80%95%E1%80%BD%E1%80%B2" title="စစ်အေးတိုက်ပွဲ">စစ်အေးတိုက်ပွဲ</a>
+</p>
+</td></tr></tbody></table></div>
+<h2 id="mp-sister" class="mp-h2"><span id=".E1.80.9D.E1.80.AE.E1.80.80.E1.80.AE.E1.80.95.E1.80.AE.E1.80.B8.E1.80.92.E1.80.AE.E1.80.B8.E1.80.9A.E1.80.AC.E1.80.B8.E1.81.8F_.E1.80.8A.E1.80.AE.E1.80.A1.E1.80.85.E1.80.BA.E1.80.99_.E1.80.95.E1.80.9B.E1.80.B1.E1.80.AC.E1.80.82.E1.80.BB.E1.80.80.E1.80.BA.E1.80.99.E1.80.BB.E1.80.AC.E1.80.B8"></span><span class="mw-headline" id="ဝီကီပီးဒီးယား၏_ညီအစ်မ_ပရောဂျက်များ">ဝီကီပီးဒီးယား၏ ညီအစ်မ ပရောဂျက်များ</span></h2>
+<div id="mp-sister-content"><style data-mw-deduplicate="TemplateStyles:r519170">.mw-parser-output #sister-projects-list{text-align:left;background:transparent;margin:1px}.mw-parser-output #sister-projects-list>div{width:32%;min-width:20em;white-space:nowrap;margin:0 1px;display:inline-block}body.skin-minerva .mw-parser-output #sister-projects-list>div{width:49%}.mw-parser-output #sister-projects-list>div>div{display:inline-block;vertical-align:middle;margin:1px 0;padding:4px}.mw-parser-output #sister-projects-list>div>div:first-child{min-width:50px;text-align:center}</style>
+<p>ဝီကီပီးဒီးယားကို အကျိုးအမြတ်မယူသည့် ပရဟိတအဖွဲ့အစည်း <a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%99%E1%80%AE%E1%80%92%E1%80%AE%E1%80%9A%E1%80%AC_%E1%80%96%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%92%E1%80%B1%E1%80%B8%E1%80%9B%E1%80%BE%E1%80%84%E1%80%BA%E1%80%B8" title="ဝီကီမီဒီယာ ဖောင်ဒေးရှင်း">ဝီကီမီဒီယာ ဖောင်ဒေးရှင်း</a> မှ လွှင့်တင်ပြီး အောက်ပါအခြား <a href="https://foundation.wikimedia.org/wiki/Our_projects" class="extiw" title="wmf:Our projects">ပရောဂျက်များ</a>ကိုလည်း လွှင့်တင်ထားပါသည်။
+</p>
+<div id="sister-projects-list" class="layout plainlinks">
+<div>
+  <div> <a href="https://commons.wikimedia.org/wiki/" title="Commons"><img alt="Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/31px-Commons-logo.svg.png" decoding="async" width="31" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/47px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/62px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> </div>
+  <div> <b><a class="external text" href="https://commons.wikimedia.org/">Commons</a></b> <br /> အခမဲ့ မီဒီယာတည်ရာ </div>
+</div>
+<div>
+  <div> <a href="https://www.mediawiki.org/wiki/" title="မီဒီယာဝီကီ"><img alt="မီဒီယာဝီကီ" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/35px-MediaWiki-2020-icon.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/53px-MediaWiki-2020-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/70px-MediaWiki-2020-icon.svg.png 2x" data-file-width="100" data-file-height="100" /></a> </div>
+  <div> <b><a class="external text" href="https://mediawiki.org/">မီဒီယာဝီကီ</a></b> <br /> ဝီကီဆော့ဖ်ဝဲ ဖွံ့ဖြိုးတည်ဆောက်မှု  </div>
+</div>
+<div>
+  <div> <a href="https://meta.wikimedia.org/wiki/" title="မေတာ-ဝီကီ"><img alt="မေတာ-ဝီကီ" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/35px-Wikimedia_Community_Logo.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/53px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/70px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a> </div>
+  <div> <b><a class="external text" href="https://meta.wikimedia.org/">မေတာ-ဝီကီ</a></b> <br /> ဝီကီမီဒီယာ ပရောဂျက်အားလုံးအတွက် ဆက်သွယ်ရေး  </div>
+</div>
+<div>
+  <div> <a href="https://my.wikibooks.org/wiki/" title="ဝီကီစာအုပ်"><img alt="ဝီကီစာအုပ်" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a> </div>
+  <div> <b><a class="external text" href="https://en.wikibooks.org/">ဝီကီစာအုပ်</a></b> <br /> အခမဲ့ ကျောင်းသုံးစာအုပ်နှင့် လက်စွဲစာအုပ်များ </div>
+</div>
+<div>
+  <div> <a href="https://www.wikidata.org/wiki/" title="ဝီကီဒေတာ"><img alt="ဝီကီဒေတာ" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/47px-Wikidata-logo.svg.png" decoding="async" width="47" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/71px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/94px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> </div>
+  <div> <b><a class="external text" href="https://www.wikidata.org/">ဝီကီဒေတာ</a></b> <br /> အခမဲ့ အသိပညာ ဗဟို </div>
+</div>
+<div>
+  <div> <a href="https://my.wikinews.org/wiki/" title="ဝီကီသတင်း"><img alt="ဝီကီသတင်း" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/51px-Wikinews-logo.svg.png" decoding="async" width="51" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/77px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/102px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a> </div>
+  <div> <b><a class="external text" href="https://en.wikinews.org/">ဝီကီသတင်း</a></b> <br /> အခမဲ့ သတင်းများ  </div>
+</div>
+<div>
+  <div> <a href="https://my.wikiquote.org/wiki/" title="ဝီကီကိုးကား"><img alt="ဝီကီကိုးကား" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png" decoding="async" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/53px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/70px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a> </div>
+  <div> <b><a class="external text" href="https://wikiquote.org">ဝီကီကိုးကား</a></b> <br /> မှတ်သားဖွယ်ရာ စကားများ စုစည်းရာ </div>
+</div>
+<div>
+  <div> <a href="https://my.wikisource.org/wiki/" title="ဝီကီရင်းမြစ်"><img alt="ဝီကီရင်းမြစ်" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" decoding="async" width="35" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a> </div>
+  <div> <b><a class="external text" href="https://my.wikisource.org">ဝီကီရင်းမြစ်</a></b> <br /> အခမဲ့စာကြည့်တိုက် </div>
+</div>
+<div>
+  <div> <a href="https://species.wikimedia.org/wiki/" title="ဝီကီမျိုးစိတ်"><img alt="ဝီကီမျိုးစိတ်" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" decoding="async" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a> </div>
+  <div> <b><a class="external text" href="https://species.wikimedia.org/">ဝီကီမျိုးစိတ်</a></b> <br /> မျိုးစိတ်များတည်ရာ </div>
+</div>
+<div>
+  <div> <a href="https://my.wikiversity.org/wiki/" title="ဝီကီဗာစတီ"><img alt="ဝီကီဗာစတီ" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/41px-Wikiversity_logo_2017.svg.png" decoding="async" width="41" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/62px-Wikiversity_logo_2017.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/82px-Wikiversity_logo_2017.svg.png 2x" data-file-width="626" data-file-height="512" /></a> </div>
+  <div> <b><a class="external text" href="https://my.wikiversity.org/">ဝီကီဗာစတီ</a></b> <br /> အခမဲ့ ပညာသင်စာနှင့် ဖတ်စာများ </div>
+</div>
+<div>
+  <div> <a href="https://en.wikivoyage.org/wiki/" title="ဝီကီခရီးသွား"><img alt="ဝီကီခရီးသွား" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a> </div>
+  <div> <b><a class="external text" href="https://my.wikivoyage.org/">ဝီကီခရီးသွား</a></b> <br /> အခမဲ့ ခရီးသွားလမ်းညွှန် </div>
+</div>
+<div>
+  <div> <a href="https://my.wiktionary.org/wiki/" title="ဝစ်ရှင်နရီ"><img alt="ဝစ်ရှင်နရီ" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/35px-Wiktionary-logo.svg.png" decoding="async" width="35" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/53px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/70px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></a> </div>
+  <div> <b><a class="external text" href="https://my.wiktionary.org">ဝစ်ရှင်နရီ</a></b> <br /> အဘိဓာန်နှင့် ဝေါဟာရအဖွင့်ကျမ်း  </div>
+</div>
+</div></div>
+<h2 id="mp-lang" class="mp-h2"><span id=".E1.80.9D.E1.80.AE.E1.80.80.E1.80.AE.E1.80.95.E1.80.AE.E1.80.B8.E1.80.92.E1.80.AE.E1.80.B8.E1.80.9A.E1.80.AC.E1.80.B8_.E1.80.98.E1.80.AC.E1.80.9E.E1.80.AC.E1.80.85.E1.80.80.E1.80.AC.E1.80.B8.E1.80.99.E1.80.BB.E1.80.AC.E1.80.B8"></span><span class="mw-headline" id="ဝီကီပီးဒီးယား_ဘာသာစကားများ">ဝီကီပီးဒီးယား ဘာသာစကားများ</span></h2>
+<div><style data-mw-deduplicate="TemplateStyles:r755229">.mw-parser-output .wikipedia-languages-complete{font-weight:bold}.mw-parser-output .wikipedia-languages ul{margin-left:0}.mw-parser-output .wikipedia-languages ul a{white-space:nowrap}.mw-parser-output .wikipedia-languages>ul{list-style:none;text-align:center;clear:both}.mw-parser-output .wikipedia-languages-count-container{width:90%;display:flex;justify-content:center;padding-top:1em;margin:0 auto}.mw-parser-output .wikipedia-languages-prettybars{width:100%;height:1px;margin:0.5em 0;background-color:#c8ccd1;flex-shrink:1;align-self:center}.mw-parser-output .wikipedia-languages-count{padding:0 1em;white-space:nowrap}</style>
+<div class="wikipedia-languages nourlexpansion">
+<p>ဤဝီကီပီးဒီးယားကို <a href="/wiki/%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%98%E1%80%AC%E1%80%9E%E1%80%AC" class="mw-redirect" title="မြန်မာဘာသာ">မြန်မာဘာသာ</a>ဖြင့် ရေးသားထားပါသည်။ ၂၀၀၄<span style="display:none">&#160;(<span class="bday dtstart published updated">၂၀၀၄</span>)</span> ခုနှစ်မှ စတင်၍ ယခုအခါ အကြောင်းအရာပေါင်း <a href="/wiki/%E1%80%A1%E1%80%91%E1%80%B0%E1%80%B8:%E1%80%85%E1%80%AC%E1%80%9B%E1%80%84%E1%80%BA%E1%80%B8%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8" title="အထူး:စာရင်းအင်းများ">၁၀၅၃၇၉</a> ခုရှိပါသည်။ အခြားဘာသာဖြင့် ရေးသားသော <a href="https://meta.wikimedia.org/wiki/List_of_Wikipedias" class="extiw" title="meta:List of Wikipedias">ဝီကီပီးဒီးယားများ</a>ကိုလည်း ကြည့်ရှုနိုင်ပြီး ဆောင်းပါးအများဆုံးသော ဝီကီပီးဒီးယားများကို အောက်တွင်ဖော်ပြထားပါသည်။
+</p>
+<ul class="plainlinks">
+<li>
+  <div class="wikipedia-languages-count-container">
+    <div class="wikipedia-languages-prettybars"></div>
+    <div role="heading" class="wikipedia-languages-count">ဆောင်းပါးပေါင်း ၁,၀၀၀,၀၀၀ ကျော်</div>
+    <div class="wikipedia-languages-prettybars"></div>
+  </div>
+<style data-mw-deduplicate="TemplateStyles:r775097">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist wikipedia-languages-langs inline">
+<ul><li><a class="external text" href="https://ar.wikipedia.org/wiki/"><span class="autonym" title="အာရဗီ (ar:)" lang="ar">العربية</span></a></li>
+<li><a class="external text" href="https://de.wikipedia.org/wiki/"><span class="autonym" title="ဂျာမန် (de:)" lang="de">Deutsch</span></a></li>
+<li><a class="external text" href="https://en.wikipedia.org/wiki/"><span class="autonym" title="အင်္ဂလိပ် (en:)" lang="en">English</span></a></li>
+<li><a class="external text" href="https://es.wikipedia.org/wiki/"><span class="autonym" title="စပိန် (es:)" lang="es">Español</span></a></li>
+<li><a class="external text" href="https://fr.wikipedia.org/wiki/"><span class="autonym" title="ပြင်သစ် (fr:)" lang="fr">Français</span></a></li>
+<li><a class="external text" href="https://it.wikipedia.org/wiki/"><span class="autonym" title="အီတလီ (it:)" lang="it">Italiano</span></a></li>
+<li><a class="external text" href="https://nl.wikipedia.org/wiki/"><span class="autonym" title="ဒတ်ခ်ျ (nl:)" lang="nl">Nederlands</span></a></li>
+<li><a class="external text" href="https://ja.wikipedia.org/wiki/"><span class="autonym" title="ဂျပန် (ja:)" lang="ja">日本語</span></a></li>
+<li><a class="external text" href="https://pl.wikipedia.org/wiki/"><span class="autonym" title="ပိုလန် (pl:)" lang="pl">Polski</span></a></li>
+<li><a class="external text" href="https://pt.wikipedia.org/wiki/"><span class="autonym" title="ပေါ်တူဂီ (pt:)" lang="pt">Português</span></a></li>
+<li><a class="external text" href="https://ru.wikipedia.org/wiki/"><span class="autonym" title="ရုရှ (ru:)" lang="ru">Русский</span></a></li>
+<li><a class="external text" href="https://sv.wikipedia.org/wiki/"><span class="autonym" title="ဆွီဒင် (sv:)" lang="sv">Svenska</span></a></li>
+<li><a class="external text" href="https://uk.wikipedia.org/wiki/"><span class="autonym" title="ယူကရိန်း (uk:)" lang="uk">Українська</span></a></li>
+<li><a class="external text" href="https://vi.wikipedia.org/wiki/"><span class="autonym" title="ဗီယက်နမ် (vi:)" lang="vi">Tiếng Việt</span></a></li>
+<li><a class="external text" href="https://zh.wikipedia.org/wiki/"><span class="autonym" title="တရုတ် (zh:)" lang="zh">中文</span></a></li></ul>
+</div>
+</li>
+<li>
+  <div class="wikipedia-languages-count-container">
+    <div class="wikipedia-languages-prettybars"></div>
+    <div role="heading" class="wikipedia-languages-count">ဆောင်းပါးပေါင်း ၂၅၀,၀၀၀ ကျော်</div>
+    <div class="wikipedia-languages-prettybars"></div>
+  </div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r775097"/><div class="hlist wikipedia-languages-langs inline">
+<ul><li><a class="external text" href="https://id.wikipedia.org/wiki/"><span class="autonym" title="အင်ဒိုနီးရှား (id:)" lang="id">Bahasa Indonesia</span></a></li>
+<li><a class="external text" href="https://ms.wikipedia.org/wiki/"><span class="autonym" title="မလေး (ms:)" lang="ms">Bahasa Melayu</span></a></li>
+<li><a class="external text" href="https://zh-min-nan.wikipedia.org/wiki/"><span class="autonym" title="Min Nan Chinese (nan:)" lang="nan">Bân-lâm-gú</span></a></li>
+<li><a class="external text" href="https://bg.wikipedia.org/wiki/"><span class="autonym" title="ဘူလ်ဂေးရီးယား (bg:)" lang="bg">Български</span></a></li>
+<li><a class="external text" href="https://ca.wikipedia.org/wiki/"><span class="autonym" title="ကတ်တလန် (ca:)" lang="ca">Català</span></a></li>
+<li><a class="external text" href="https://cs.wikipedia.org/wiki/"><span class="autonym" title="ချက် (cs:)" lang="cs">Čeština</span></a></li>
+<li><a class="external text" href="https://da.wikipedia.org/wiki/"><span class="autonym" title="ဒိန်းမတ် (da:)" lang="da">Dansk</span></a></li>
+<li><a class="external text" href="https://eo.wikipedia.org/wiki/"><span class="autonym" title="အက်စ်ပရန်တို (eo:)" lang="eo">Esperanto</span></a></li>
+<li><a class="external text" href="https://eu.wikipedia.org/wiki/"><span class="autonym" title="ဘာစ်ခ် (eu:)" lang="eu">Euskara</span></a></li>
+<li><a class="external text" href="https://fa.wikipedia.org/wiki/"><span class="autonym" title="ပါရှန် (fa:)" lang="fa">فارسی</span></a>&#8206;</li>
+<li><a class="external text" href="https://he.wikipedia.org/wiki/"><span class="autonym" title="ဟီးဘရူး (he:)" lang="he">עברית</span></a></li>
+<li><a class="external text" href="https://ko.wikipedia.org/wiki/"><span class="autonym" title="ကိုရီးယား (ko:)" lang="ko">한국어</span></a></li>
+<li><a class="external text" href="https://hu.wikipedia.org/wiki/"><span class="autonym" title="ဟန်ဂေရီ (hu:)" lang="hu">Magyar</span></a></li>
+<li><a class="external text" href="https://no.wikipedia.org/wiki/"><span class="autonym" title="နော်ဝေး (no:)" lang="no">Norsk Bokmål</span></a></li>
+<li><a class="external text" href="https://ro.wikipedia.org/wiki/"><span class="autonym" title="ရိုမေနီယား (ro:)" lang="ro">Română</span></a></li>
+<li><a class="external text" href="https://sr.wikipedia.org/wiki/"><span class="autonym" title="ဆားဘီးယား (sr:)" lang="sr">Srpski</span></a></li>
+<li><a class="external text" href="https://sh.wikipedia.org/wiki/"><span class="autonym" title="Serbo-Croatian (sh:)" lang="sh">Srpskohrvatski</span></a></li>
+<li><a class="external text" href="https://fi.wikipedia.org/wiki/"><span class="autonym" title="ဖင်လန် (fi:)" lang="fi">Suomi</span></a></li>
+<li><a class="external text" href="https://tr.wikipedia.org/wiki/"><span class="autonym" title="တူရကီ (tr:)" lang="tr">Türkçe</span></a></li></ul>
+</div>
+</li>
+<li>
+  <div class="wikipedia-languages-count-container">
+    <div class="wikipedia-languages-prettybars"></div>
+    <div role="heading" class="wikipedia-languages-count">ဆောင်းပါးပေါင်း ၅၀,၀၀၀ ကျော်</div>
+    <div class="wikipedia-languages-prettybars"></div>
+  </div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r775097"/><div class="hlist wikipedia-languages-langs inline">
+<ul><li><a class="external text" href="https://ast.wikipedia.org/wiki/"><span class="autonym" title="အက်စ်တိုးရီးယား (ast:)" lang="ast">Asturianu</span></a></li>
+<li><a class="external text" href="https://bn.wikipedia.org/wiki/"><span class="autonym" title="ဘင်္ဂါလီ (bn:)" lang="bn">বাংলা</span></a></li>
+<li><a class="external text" href="https://bs.wikipedia.org/wiki/"><span class="autonym" title="ဘော့စ်နီးယား (bs:)" lang="bs">Bosanski</span></a></li>
+<li><a class="external text" href="https://et.wikipedia.org/wiki/"><span class="autonym" title="အက်စ်တိုးနီးယား (et:)" lang="et">Eesti</span></a></li>
+<li><a class="external text" href="https://el.wikipedia.org/wiki/"><span class="autonym" title="ဂရိ (el:)" lang="el">Ελληνικά</span></a></li>
+<li><a class="external text" href="https://simple.wikipedia.org/wiki/"><span class="autonym" title="Simple English (simple:)" lang="simple">Simple English</span></a></li>
+<li><a class="external text" href="https://ga.wikipedia.org/wiki/"><span class="autonym" title="အိုင်းရစ်ရှ် (ga:)" lang="ga">Gaeilge</span></a></li>
+<li><a class="external text" href="https://gl.wikipedia.org/wiki/"><span class="autonym" title="ဂါလီစီယာ (gl:)" lang="gl">Galego</span></a></li>
+<li><a class="external text" href="https://hr.wikipedia.org/wiki/"><span class="autonym" title="ခရိုအေးရှား (hr:)" lang="hr">Hrvatski</span></a></li>
+<li><a class="external text" href="https://lv.wikipedia.org/wiki/"><span class="autonym" title="လတ်ဗီးယား (lv:)" lang="lv">Latviešu</span></a></li>
+<li><a class="external text" href="https://lt.wikipedia.org/wiki/"><span class="autonym" title="လစ်သူဝေးနီးယား (lt:)" lang="lt">Lietuvių</span></a></li>
+<li><a class="external text" href="https://ml.wikipedia.org/wiki/"><span class="autonym" title="မလေယာလမ် (ml:)" lang="ml">മലയാളം</span></a></li>
+<li><a class="external text" href="https://mk.wikipedia.org/wiki/"><span class="autonym" title="မက်ဆီဒိုးနီးယား (mk:)" lang="mk">Македонски</span></a></li>
+<li><a class="external text" href="https://nn.wikipedia.org/wiki/"><span class="autonym" title="နော်ဝေ နီးနောစ် (nn:)" lang="nn">Norsk nynorsk</span></a></li>
+<li><a class="external text" href="https://sq.wikipedia.org/wiki/"><span class="autonym" title="အယ်လ်ဘေးနီးယား (sq:)" lang="sq">Shqip</span></a></li>
+<li><a class="external text" href="https://sk.wikipedia.org/wiki/"><span class="autonym" title="ဆလိုဗက် (sk:)" lang="sk">Slovenčina</span></a></li>
+<li><a class="external text" href="https://sl.wikipedia.org/wiki/"><span class="autonym" title="ဆလိုဗေးနီးယား (sl:)" lang="sl">Slovenščina</span></a></li>
+<li><a class="external text" href="https://th.wikipedia.org/wiki/"><span class="autonym" title="ထိုင်း (th:)" lang="th">ไทย</span></a></li></ul>
+</div>
+</li>
+</ul>
+</div></div>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1357
+Cached time: 20230208134455
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.262 seconds
+Real time usage: 0.337 seconds
+Preprocessor visited node count: 1700/1000000
+Post‐expand include size: 62067/2097152 bytes
+Template argument size: 4025/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11285/5000000 bytes
+Lua time usage: 0.009/10.000 seconds
+Lua memory usage: 991917/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  155.719      1 -total
+ 49.06%   76.395      1 တမ်းပလိတ်:Wikipedialang
+ 23.14%   36.031      1 တမ်းပလိတ်:သတင်းများ
+ 22.85%   35.578      3 တမ်းပလိတ်:Flatlist
+ 21.86%   34.042      1 တမ်းပလိတ်:သတင်းများ/ပုံ
+ 20.55%   32.005      1 တမ်းပလိတ်:Main_page_image
+ 13.91%   21.668      1 တမ်းပလိတ်:Str_number/trim
+ 10.78%   16.779     52 တမ်းပလိတ်:Wikipedia_languages/core
+  5.59%    8.708      3 တမ်းပလိတ်:If_empty
+  4.91%    7.639      1 တမ်းပလိတ်:Wikipedia's_sister_projects
+-->
+
+<!-- Saved in parser cache with key mywiki:pcache:idhash:808-0!canonical and timestamp 20230208134455 and revision id 775106. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//my.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">"<a dir="ltr" href="https://my.wikipedia.org/w/index.php?title=ဗဟိုစာမျက်နှာ&amp;oldid=775106">https://my.wikipedia.org/w/index.php?title=ဗဟိုစာမျက်နှာ&amp;oldid=775106</a>" မှ ရယူရန်</div></div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+					
+				</div>
+				
+					
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in ၅၁ languages"
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-51"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-wikimedia-language-progressive"></span><span class="vector-menu-heading-label">၅၁ ဘာသာစကားများ ၅၁ ခု</span>
+	</label>
+	<div class="vector-menu-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/" title="အာရဗီ" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/" title="ဘူလ်ဂေးရီးယား" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-blk mw-list-item"><a href="https://blk.wikipedia.org/wiki/" title="Pa&#039;O" lang="blk" hreflang="blk" class="interlanguage-link-target"><span>ပအိုဝ်ႏဘာႏသာႏ</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/" title="ဘင်္ဂါလီ" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/" title="ဘော့စ်နီးယား" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/" title="ကတ်တလန်" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/" title="ချက်" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/" title="ဒိန်းမတ်" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/" title="ဂျာမန်" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/" title="ဂရိ" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/" title="အင်္ဂလိပ်" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/" title="အက်စ်ပရန်တို" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/" title="စပိန်" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/" title="အက်စ်တိုးနီးယား" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/" title="ဘာစ်ခ်" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/" title="ပါရှန်" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/" title="ဖင်လန်" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/" title="ပြင်သစ်" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/" title="ဂါလီစီယာ" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/" title="ဟီးဘရူး" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/" title="ခရိုအေးရှား" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/" title="ဟန်ဂေရီ" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/" title="အင်ဒိုနီးရှား" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/" title="အီတလီ" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/" title="ဂျပန်" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/" title="ဂျော်ဂျီယာ" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/" title="ကိုရီးယား" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/" title="လစ်သူဝေးနီးယား" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/" title="လတ်ဗီးယား" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/" title="မက်ဆီဒိုးနီးယား" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-mnw mw-list-item"><a href="https://mnw.wikipedia.org/wiki/" title="Mon" lang="mnw" hreflang="mnw" class="interlanguage-link-target"><span>ဘာသာ မန်</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/" title="မလေး" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/" title="ဒတ်ခ်ျ" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/" title="နော်ဝေ နီးနောစ်" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/" title="နော်ဝေ ဘွတ်ခ်မော်လ်" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/" title="ပိုလန်" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/" title="ပေါ်တူဂီ" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/" title="ရိုမေနီယား" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/" title="ရုရှ" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/" title="Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-shn mw-list-item"><a href="https://shn.wikipedia.org/wiki/" title="ရှမ်း" lang="shn" hreflang="shn" class="interlanguage-link-target"><span>ၽႃႇသႃႇတႆး </span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/" title="Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/" title="ဆလိုဗက်" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/" title="ဆလိုဗေးနီးယား" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/" title="ဆားဘီးယား" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/" title="ဆွီဒင်" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/" title="ထိုင်း" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/" title="တူရကီ" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/" title="ယူကရိန်း" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/" title="ဗီယက်နမ်" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/" title="တရုတ်" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+			
+		</div>
+
+	</div>
+</div>
+				
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> ဤစာမျက်နှာကို ၁၅ ဇန်နဝါရီ ၂၀၂၃၊ ၀၆:၃၇ အချိန်တွင် နောက်ဆုံး ပြင်ဆင်ခဲ့သည်။</li>
+	<li id="footer-info-copyright">စာသားများကို <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike လိုင်စင်</a>ဖြင့် ရရှိနိုင်ပြီး ထပ်ဆောင်းသတ်မှတ်ချက်များ ရှိနိုင်သည်။
+အသေးစိတ်အတွက် <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use">အသုံးပြုခြင်းဆိုင်ရာ သတ်မှတ်ချက်များ</a>တွင် ကြည့်ပါ။</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">ကိုယ်ပိုင်ရေးရာ မူဝါဒ</a></li>
+	<li id="footer-places-about"><a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:%E1%80%A1%E1%80%80%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%A1%E1%80%9B%E1%80%AC">ဝီကီပီးဒီးယား အကြောင်း</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8:%E1%80%A1%E1%80%91%E1%80%BD%E1%80%B1%E1%80%91%E1%80%BD%E1%80%B1_%E1%80%9E%E1%80%90%E1%80%AD%E1%80%95%E1%80%BC%E1%80%AF%E1%80%96%E1%80%BD%E1%80%9A%E1%80%BA">သတိပြုစရာများ</a></li>
+	<li id="footer-places-mobileview"><a href="//my.m.wikipedia.org/w/index.php?title=%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">မိုလ်ဘိုင်း</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">ဆော့ဖ်ဝဲလ်တီထွင်ရေးသားသူများ</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/my.wikipedia.org">စာရင်းအင်း</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">ကွတ်ကီး ထုတ်ပြန်ချက်</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.262","walltime":"0.337","ppvisitednodes":{"value":1700,"limit":1000000},"postexpandincludesize":{"value":62067,"limit":2097152},"templateargumentsize":{"value":4025,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11285,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  155.719      1 -total"," 49.06%   76.395      1 တမ်းပလိတ်:Wikipedialang"," 23.14%   36.031      1 တမ်းပလိတ်:သတင်းများ"," 22.85%   35.578      3 တမ်းပလိတ်:Flatlist"," 21.86%   34.042      1 တမ်းပလိတ်:သတင်းများ/ပုံ"," 20.55%   32.005      1 တမ်းပလိတ်:Main_page_image"," 13.91%   21.668      1 တမ်းပလိတ်:Str_number/trim"," 10.78%   16.779     52 တမ်းပလိတ်:Wikipedia_languages/core","  5.59%    8.708      3 တမ်းပလိတ်:If_empty","  4.91%    7.639      1 တမ်းပလိတ်:Wikipedia's_sister_projects"]},"scribunto":{"limitreport-timeusage":{"value":"0.009","limit":"10.000"},"limitreport-memusage":{"value":991917,"limit":52428800}},"cachereport":{"origin":"mw1357","timestamp":"20230208134455","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u1017\u101f\u102d\u102f\u1005\u102c\u1019\u103b\u1000\u103a\u1014\u103e\u102c","url":"https:\/\/my.wikipedia.org\/wiki\/%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"\u101d\u102e\u1000\u102e\u1019\u102e\u1012\u102e\u101a\u102c \u1015\u101b\u1031\u102c\u1002\u103b\u1000\u103a\u1019\u103b\u102c\u1038\u101e\u102d\u102f\u1037 \u1015\u1036\u1037\u1015\u102d\u102f\u1038\u101e\u1030\u1019\u103b\u102c\u1038"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-30T11:24:54Z","dateModified":"2023-01-15T06:37:06Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f9\/Spiders_Diversity.jpg","headline":"\u101d\u102e\u1000\u102e\u1019\u102e\u1012\u102e\u101a\u102c \u1015\u101b\u1031\u102c\u1002\u103b\u1000\u103a \u1005\u102c\u1019\u103b\u1000\u103a\u1014\u103e\u102c"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u1017\u101f\u102d\u102f\u1005\u102c\u1019\u103b\u1000\u103a\u1014\u103e\u102c","url":"https:\/\/my.wikipedia.org\/wiki\/%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"\u101d\u102e\u1000\u102e\u1019\u102e\u1012\u102e\u101a\u102c \u1015\u101b\u1031\u102c\u1002\u103b\u1000\u103a\u1019\u103b\u102c\u1038\u101e\u102d\u102f\u1037 \u1015\u1036\u1037\u1015\u102d\u102f\u1038\u101e\u1030\u1019\u103b\u102c\u1038"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-30T11:24:54Z","dateModified":"2023-01-15T06:37:06Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f9\/Spiders_Diversity.jpg","headline":"\u101d\u102e\u1000\u102e\u1019\u102e\u1012\u102e\u101a\u102c \u1015\u101b\u1031\u102c\u1002\u103b\u1000\u103a \u1005\u102c\u1019\u103b\u1000\u103a\u1014\u103e\u102c"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1431"});});</script>
+</body>
+</html>

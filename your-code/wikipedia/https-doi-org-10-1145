@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>DOI Name 10.1145 Values</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<link rel="icon" href="/static/img/favicon.png" />
+<link rel="shortcut icon" href="/static/favicon.ico" type="image/x-icon" />
+<link href="/static/style/new-style2.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+
+<div style="background:#fcb426">
+<img src="/static/img/banner-413.gif" alt="Logo" width="620" height="137" border="0" />
+</div>
+
+<div style="height:1px;background:#000000"></div>
+<div style="height:1px;background:#54524f"></div>
+<div style="height:1px;background:#f6911e"></div>
+
+
+<!-- TABLE FOR NAVIGATION BAR -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" id="navtable" align="center">
+  <tr>
+    <td width="34" height="26" bgcolor="#231f20"><img src="/static/img/transparent.gif" alt="" width="1" height="1" /></td>
+
+    <td height="26" bgcolor="#231f20" class="navtext">
+    <a href="https://www.doi.org/index.html">HOME</a> &nbsp;|&nbsp;<a href="https://www.doi.org/hb.html">HANDBOOK</a> &nbsp;|&nbsp;<a href="https://www.doi.org/factsheets.html">FACTSHEETS</a> &nbsp;|&nbsp;<a href="https://www.doi.org/faq.html">FAQs</a> &nbsp;|&nbsp; <a href="https://www.doi.org/resources.html">RESOURCES</a> &nbsp;|&nbsp;<a href="https://www.doi.org/users.html">USERS</a> &nbsp;|&nbsp;<a href="https://www.doi.org/announce.html">NEWS</a> &nbsp;|&nbsp;<a href="https://www.doi.org/idf-members/index.html">MEMBERS AREA</a>
+    </td>
+  </tr>
+</table>
+<!-- END TABLE FOR NAVIGATION BAR -->
+
+<div style="height:1px;background:#e3a44d"></div>
+<div style="height:3px;background:#4d4942"></div>
+
+
+
+<!-- TABLE FOR CONTENT -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+<tr>
+<td colspan="6">
+<img src="/static/img/transparent.gif" alt="" width="100" height="20" border="0" />
+</td>
+</tr>
+
+<tr>
+
+<td valign="top">
+
+<h2>DOI Name Values</h2>
+
+<div class="divider">&nbsp;</div>
+
+<div style="padding-left: 32px; padding-right: 2em;">
+<table align="center">
+<tbody>
+<tr>
+<td colspan="4" align="left"><b>DOI:</b> 10.1145</td>
+</tr>
+
+<tr>
+<th colspan="4" align="left" bgcolor="#dddddd">DOI Values for: 10.1145</th>
+</tr>
+
+<tr><td align="left" valign="top">Index</td><td align="left" valign="top">Type</td><td align="left" valign="top">Timestamp</td><td align="left" valign="top">Data</td></tr>
+<tr bgcolor="#dddddd"><td align="left" valign="top"><b>100</b></td><td align="left" valign="top"><b><a href="https://doi.org/0.TYPE/HS_ADMIN">HS_ADMIN</a></b></td><td valign="top"><span style='white-space:nowrap'>2005-01-19&nbsp;17:57:45Z</span></td>
+<td>handle=0.NA/10.1145; index=200; [create hdl,delete hdl,read val,modify val,del val,add val,add admin,list]</td></tr>
+<tr bgcolor="#ffffff"><td align="left" valign="top"><b>101</b></td><td align="left" valign="top"><b><a href="https://doi.org/0.TYPE/HS_ADMIN">HS_ADMIN</a></b></td><td valign="top"><span style='white-space:nowrap'>2004-07-30&nbsp;01:39:45Z</span></td>
+<td>handle=0.NA/10; index=200; [create hdl,delete hdl,create derived prefix,delete derived prefix,read val,modify val,del val,add val,modify admin,del admin,add admin,list]</td></tr>
+<tr bgcolor="#dddddd"><td align="left" valign="top"><b>3</b></td><td align="left" valign="top"><b><a href="https://doi.org/0.TYPE/EMAIL">EMAIL</a></b></td><td valign="top"><span style='white-space:nowrap'>2004-07-30&nbsp;01:39:45Z</span></td>
+<td><a href="mailto:doi-admin@cnri.reston.va.us">doi-admin@cnri.reston.va.us</a></td></tr>
+<tr bgcolor="#ffffff"><td align="left" valign="top"><b>1</b></td><td align="left" valign="top"><b><a href="https://doi.org/0.TYPE/HS_SERV">HS_SERV</a></b></td><td valign="top"><span style='white-space:nowrap'>2016-09-21&nbsp;20:45:49Z</span></td>
+<td>10.SERV/CROSSREF</td></tr>
+<tr bgcolor="#dddddd"><td align="left" valign="top"><b>200</b></td><td align="left" valign="top"><b><a href="https://doi.org/0.TYPE/HS_VLIST">HS_VLIST</a></b></td><td valign="top"><span style='white-space:nowrap'>2005-01-19&nbsp;17:57:54Z</span></td>
+<td>300:10.admin/acm<br>300:10.cradmin/acm<br></td></tr>
+<tr bgcolor="#ffffff"><td align="left" valign="top"><b>20</b></td><td align="left" valign="top"><b><a href="https://doi.org/0.TYPE/HS_NAMESPACE">HS_NAMESPACE</a></b></td><td valign="top"><span style='white-space:nowrap'>2016-09-21&nbsp;20:45:49Z</span></td>
+<td>&lt;HS_NAMESPACE&gt;<br />  &lt;DOI.RA&gt;10.SERV/CROSSREF&lt;/DOI.RA&gt;<br />  &lt;locs&gt;10.SERV/CROSSREF&lt;/locs&gt;<br />&lt;/HS_NAMESPACE&gt;</td></tr>
+<tr bgcolor="#dddddd"><td align="left" valign="top"><b>102</b></td><td align="left" valign="top"><b><a href="https://doi.org/0.TYPE/HS_ADMIN">HS_ADMIN</a></b></td><td valign="top"><span style='white-space:nowrap'>2009-12-18&nbsp;17:22:19Z</span></td>
+<td>handle=200/997; index=300; [list]</td></tr>
+<tr bgcolor="#ffffff"><td align="left" valign="top"><b>400</b></td><td align="left" valign="top"><b><a href="https://doi.org/0.TYPE/HS_SIGNATURE">HS_SIGNATURE</a></b></td><td valign="top"><span style='white-space:nowrap'>2022-01-30&nbsp;02:03:01Z</span></td>
+<td>eyJhbGciOiJSUzI1NiJ9.eyJkaWdlc3RzIjp7ImFsZyI6IlNIQS0yNTYiLCJkaWdlc3RzIjpbeyJpbmRleCI6MTAwLCJkaWdlc3QiOiIrV1M0S3hINm1ra0FzQzNKRmpnYmE0SWFxSzBYY0hmTTAyWC9JQ053SXBnPSJ9LHsiaW5kZXgiOjEwMSwiZGlnZXN0IjoiVHl1MkZoc1ZkVXV1UGdIZk5HTVR2S1VkUzd5MTZ4cTYxQkxmZGRzTVlMWT0ifSx7ImluZGV4IjozLCJkaWdlc3QiOiJyUWxjTmpIUDVkK3c3TFNzaTMrRW8wRThIcm4rVVhHVjBmTE5HTnlNYnZJPSJ9LHsiaW5kZXgiOjEsImRpZ2VzdCI6IkkxNHJicFNhOHljZ0pLK0h5MmhGUHdKWDdYRXhkZTcrSHB2dzdkNExycHc9In0seyJpbmRleCI6MjAwLCJkaWdlc3QiOiJQSG5uYXlPMCs3MCsrOE1JQ3V1Rk8vNWRtcjNGQlMwQTNxcFpVSHRqdktnPSJ9LHsiaW5kZXgiOjIwLCJkaWdlc3QiOiI5WktOajRkMlM5QTB4V3lFUldKS1pKZ2JpMHA4aVMrRjhHZjJSOU1LeXF3PSJ9LHsiaW5kZXgiOjEwMiwiZGlnZXN0Ijoic3h3UGFaU2NMZXQ4amFsSVVEQWc1TXRUeGhDNUFHU01SdllFQVBHaWxFUT0ifV19LCJpc3MiOiIzMDA6MC5OQS8xMCIsInN1YiI6IjAuTkEvMTAuMTE0NSIsImV4cCI6MTcwNjc1Mjk4MSwibmJmIjoxNjQzNTA3NTgxLCJpYXQiOjE2NDM1MDgxODF9.lmuH7zTUzld_PA1KBxk_bQbd1DcKDdpLNgFgJ3u4GRShvKkas1pqYyZH8cyTPgWj3CUDn_unWYq40aml_Kgr8xRFgN8YGc0-3vqNMnhJTfNNG63SYrwSs5tlXJpZXpVjmoDUWNl2za1K1MasvEcRlWNKkCYQhXu73SVy3g_04inZV-vRYpcIpZ3Fd1JMlwVnJvGAs4QOW688qOhjQErEptWa6FjVGRPCJVbtf4oYWTciBLxld9qpxZlmrHNDwz864fpeS8uGPSWEquKjAm-0DNgCFJMXf18epzoSubMshmof20jG9tY7TMSyrs2JkP8uK661I3Yo9aYe_Hr1EhoWMQ</td></tr>
+
+
+</tbody>
+</table>
+
+</div>
+
+
+</td>
+<td><img src="/static/img/transparent.gif" alt="" width="20" height="20" border="0" /></td>
+</tr>
+</table>
+
+<div class="divider-full">&nbsp;</div>
+
+<!-- TABLE FOR FOOTER -->
+
+<table  border="0" cellpadding="0" cellspacing="0" align="center">
+
+<tr>
+<td align="center" colspan="2">
+<a href="/help.html">DOI Resolution Documentation</a>
+</td>
+</tr>
+
+<tr>
+<td align="left" height="40">
+<img src="/static/img/Logo_TM.png" alt="DOI_disc_logo" width="24" height="24" />
+</td>
+
+<td align="left">
+<span style="padding-left: 0px; font-size: 11px;"><span style="vertical-align: super;">&reg;</span>, DOI<span style="vertical-align: super;">&reg;</span>, DOI.ORG<span style="vertical-align: super;">&reg;</span>, and shortDOI<span style="vertical-align: super;">&reg;</span> are trademarks of the International DOI Foundation.</span>
+</td>
+</tr>
+</table>
+</body>
+</html>

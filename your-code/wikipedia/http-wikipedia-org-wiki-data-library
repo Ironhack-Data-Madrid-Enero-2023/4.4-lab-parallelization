@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Research data archiving - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c1834926-8493-4c9f-a80b-8d5c7023caeb",
+"wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Research_data_archiving","wgTitle":"Research data archiving","wgCurRevisionId":1136415880,"wgRevisionId":1136415880,"wgArticleId":10022970,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Computer archives","Data management","Data publishing","Digital preservation","Information retrieval techniques","Knowledge representation","Structured storage"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Research_data_archiving","wgRelevantArticleId":10022970,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Data_library","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":
+"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgInternalRedirectTargetUrl":"/wiki/Research_data_archiving#Data_library","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q17155735","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","skins.vector.es6","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Research data archiving - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Research_data_archiving#Data_library"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Research_data_archiving&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Research_data_archiving#Data_library"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector skin-vector-search-vue vector-toc-pinned mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Research_data_archiving rootpage-Research_data_archiving skin-vector-2022 action-view"><div class="mw-page-container">
+	<a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+	<div class="mw-page-container-inner">
+		<input
+			type="checkbox"
+			id="mw-sidebar-checkbox"
+			class="mw-checkbox-hack-checkbox"
+			>
+		<header class="mw-header mw-ui-icon-flush-left mw-ui-icon-flush-right">
+			<div class="vector-header-start">
+					<label
+				id="mw-sidebar-button"
+				class="mw-checkbox-hack-button mw-ui-icon mw-ui-button mw-ui-quiet mw-ui-icon-element mw-ui-icon-flush-right"
+				for="mw-sidebar-checkbox"
+				role="button"
+				aria-controls="mw-panel"
+				data-event-name="ui.sidebar"
+				tabindex="0"
+				title="Main menu">
+				<span>Toggle sidebar</span>
+			</label>
+		
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+			</div>
+			<div class="vector-header-end">
+				
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		
+		
+		
+		title="Search Wikipedia [f]"
+		accesskey="f"
+		class="mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search search-toggle">
+		<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+				<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-heading">
+		
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Research+data+archiving" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	<div id="p-personal" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-personal vector-user-menu vector-user-menu-logged-out"  title="Log in and more options" >
+		<input type="checkbox"
+			id="p-personal-checkbox"
+			role="button"
+			aria-haspopup="true"
+			data-event-name="ui.dropdown-p-personal"
+			class="vector-menu-checkbox "
+			
+			
+		/>
+		<label
+			id="p-personal-label"
+			for="p-personal-checkbox"
+			class="vector-menu-heading mw-checkbox-hack-button mw-ui-icon mw-ui-button mw-ui-quiet mw-ui-icon-element mw-ui-icon-wikimedia-ellipsis"
+			
+		>
+			<span class="vector-menu-heading-label">Personal tools</span>
+		</label>
+		<div class="vector-menu-content">
+	
+		<div class="vector-menu-content">
+	
+	<ul class="vector-menu-content-list"><li class="vector-user-menu-create-account user-links-collapsible-item" id=""><a data-mw="interface"
+	href="/w/index.php?title=Special:CreateAccount&amp;returnto=Research+data+archiving"
+	><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span><span>Create account</span></a>
+</li><li class="vector-user-menu-login" id=""><a data-mw="interface"
+	href="/w/index.php?title=Special:UserLogin&amp;returnto=Research+data+archiving"
+	 title="[o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span><span>Log in</span></a>
+</li></ul>
+	
+</div>
+
+		<div class="vector-user-menu-anon-editor">
+			<p>
+				Pages for logged out editors <a data-mw="interface"
+	href="/wiki/Help:Introduction"
+	 aria-label="Learn more about editing"><span>learn more</span></a>
+
+			</p>
+		</div>
+				<div class="vector-menu-content">
+	
+	<ul class="vector-menu-content-list"><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li></ul>
+	
+</div>
+
+	
+		</div>
+	</div></nav>
+
+			</div>
+		</header>
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+						
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	
+	
+<div id="p-navigation" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-navigation"  >
+	<div
+		id="p-navigation-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-interaction"  >
+	<div
+		id="p-interaction-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-tb"  >
+	<div
+		id="p-tb-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Research_data_archiving" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Research_data_archiving" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Research_data_archiving&amp;oldid=1136415880" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Research_data_archiving&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Research_data_archiving&amp;id=1136415880&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17155735" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div
+		id="p-coll-print_export-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Research_data_archiving&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Research_data_archiving&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">On this Wikipedia the language links are at the top of the page across from the article title. <a href="#p-lang-btn">Go to top</a>.</div>
+		</div>
+	</div>
+</div>
+
+
+</div>
+
+				</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="mw-checkbox-hack-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+			<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-name="vector-toc"
+	
+	
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Selected_policies_by_journals"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Selected_policies_by_journals">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Selected policies by journals</div>
+		</a>
+		
+			<button aria-controls="toc-Selected_policies_by_journals-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				
+			</button>
+		
+		<ul id="toc-Selected_policies_by_journals-sublist" class="vector-toc-list">
+			<li id="toc-Biotropica"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Biotropica">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span><i>Biotropica</i></div>
+			</a>
+			
+			<ul id="toc-Biotropica-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-The_American_Naturalist"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#The_American_Naturalist">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span><i>The American Naturalist</i></div>
+			</a>
+			
+			<ul id="toc-The_American_Naturalist-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Journal_of_Heredity"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Journal_of_Heredity">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.3</span><i>Journal of Heredity</i></div>
+			</a>
+			
+			<ul id="toc-Journal_of_Heredity-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Molecular_Ecology"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Molecular_Ecology">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.4</span><i>Molecular Ecology</i></div>
+			</a>
+			
+			<ul id="toc-Molecular_Ecology-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Nature"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Nature">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.5</span><i>Nature</i></div>
+			</a>
+			
+			<ul id="toc-Nature-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Science"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Science">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.6</span><i>Science</i></div>
+			</a>
+			
+			<ul id="toc-Science-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Royal_Society"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Royal_Society">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.7</span>Royal Society</div>
+			</a>
+			
+			<ul id="toc-Royal_Society-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Journal_of_Archaeological_Science"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Journal_of_Archaeological_Science">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.8</span><i>Journal of Archaeological Science</i></div>
+			</a>
+			
+			<ul id="toc-Journal_of_Archaeological_Science-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Policies_by_funding_agencies"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Policies_by_funding_agencies">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Policies by funding agencies</div>
+		</a>
+		
+		<ul id="toc-Policies_by_funding_agencies-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Data_library"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Data_library">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Data library</div>
+		</a>
+		
+			<button aria-controls="toc-Data_library-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				
+			</button>
+		
+		<ul id="toc-Data_library-sublist" class="vector-toc-list">
+			<li id="toc-Importance_and_services"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Importance_and_services">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Importance and services</div>
+			</a>
+			
+			<ul id="toc-Importance_and_services-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Examples_of_data_libraries"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Examples_of_data_libraries">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Examples of data libraries</div>
+		</a>
+		
+			<button aria-controls="toc-Examples_of_data_libraries-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				
+			</button>
+		
+		<ul id="toc-Examples_of_data_libraries-sublist" class="vector-toc-list">
+			<li id="toc-Natural_sciences"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Natural_sciences">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Natural sciences</div>
+			</a>
+			
+			<ul id="toc-Natural_sciences-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Social_sciences"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Social_sciences">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Social sciences</div>
+			</a>
+			
+			<ul id="toc-Social_sciences-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Notes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Notes">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Notes</div>
+		</a>
+		
+		<ul id="toc-Notes-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Further_reading"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Further_reading">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>Further reading</div>
+		</a>
+		
+		<ul id="toc-Further_reading-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>External links</div>
+		</a>
+		
+			<button aria-controls="toc-External_links-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				
+			</button>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+			<li id="toc-Associations"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Associations">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">9.1</span>Associations</div>
+			</a>
+			
+			<ul id="toc-Associations-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-flush-left mw-ui-icon-element mw-ui-icon-wikimedia-listBullet mw-checkbox-hack-button"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="toc-toggle-list"
+						data-event-name="vector.toc-toggle-list"
+						tabindex="0"
+						title="Table of Contents">
+						Toggle the table of contents
+					</label>
+				
+					
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-checkbox-hack-button mw-ui-icon mw-ui-button mw-ui-quiet mw-ui-icon-element mw-ui-icon-wikimedia-listBullet"
+		
+	>
+		<span class="vector-menu-heading-label"></span>
+	</label>
+	<div class="vector-menu-content">
+
+
+						<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+		</div>
+	
+	</div>
+</div>
+				
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Research data archiving</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 1 language"
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-1"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-wikimedia-language-progressive"></span><span class="vector-menu-heading-label">1 language</span>
+	</label>
+	<div class="vector-menu-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Archivo_de_datos_de_investigaci%C3%B3n" title="Archivo de datos de investigación – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17155735#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Research_data_archiving" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Research_data_archiving" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Research_data_archiving"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Research_data_archiving&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Research_data_archiving&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+
+<div id="p-cactions" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		
+		
+	/>
+	<label
+		id="p-cactions-label"
+		for="p-cactions-checkbox"
+		class="vector-menu-heading"
+		
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Research_data_archiving"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Research_data_archiving&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Research_data_archiving&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Data_library&amp;redirect=no" class="mw-redirect" title="Data library">Data library</a>)</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><p><b>Research data archiving</b> is the <a href="/wiki/Computer_data_storage#Volatility" title="Computer data storage">long-term storage</a> of scholarly research <a href="/wiki/Data" title="Data">data</a>, including the natural sciences, social sciences, and life sciences. The various <a href="/wiki/Academic_journals" class="mw-redirect" title="Academic journals">academic journals</a> have differing policies regarding how much of their data and methods researchers are required to store in a public archive, and what is actually archived varies widely between different disciplines. Similarly, the major grant-giving institutions have varying attitudes towards public archival of data. In general, the tradition of science has been for publications to contain sufficient information to allow fellow researchers to replicate and therefore test the research. In recent years this approach has become increasingly strained as research in some areas depends on large datasets which cannot easily be replicated independently.
+</p><p>Data archiving is more important in some fields than others.  In a few fields, all of the data necessary to replicate the work is already available in the journal article.  In drug development, a great deal of data is generated and must be archived so researchers can verify that the reports the drug companies publish accurately reflect the data.
+</p><p>The requirement of data archiving is a recent development in the <a href="/wiki/History_of_science" title="History of science">history of science</a>.  It was made possible by advances in <a href="/wiki/Information_technology" title="Information technology">information technology</a> allowing large amounts of data to be stored and accessed from central locations.  For example, the <a href="/wiki/American_Geophysical_Union" title="American Geophysical Union">American Geophysical Union</a> (AGU) adopted their first policy on data archiving in 1993, about three years after the beginning of the <a href="/wiki/WWW" class="mw-redirect" title="WWW">WWW</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> This policy mandates that datasets cited in AGU papers must be archived by a recognised data center; it permits the creation of "data papers"; and it establishes AGU's role in maintaining data archives. But it makes no requirements on paper authors to archive their data.
+</p><p>Prior to organized data archiving, researchers wanting to evaluate or replicate a paper would have to request data and methods information from the author.  The academic community expects authors to <a href="/wiki/Data_sharing_(Science)" class="mw-redirect" title="Data sharing (Science)">share supplemental data</a>.  This process was recognized as wasteful of time and energy and obtained mixed results.  Information could become lost or corrupted over the years.  In some cases, authors simply refuse to provide the information.
+</p><p>The need for data archiving and due diligence is greatly increased when the research deals with health issues or public policy formation.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Selected_policies_by_journals">Selected policies by journals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=1" title="Edit section: Selected policies by journals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Biotropica"><i>Biotropica</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=2" title="Edit section: Biotropica">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r996844942">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p><i><a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291744-7429">Biotropica</a></i> requires, as a condition for publication, that the data supporting the results in the paper and metadata describing them must be archived in an appropriate public archive such as <a rel="nofollow" class="external text" href="http://datadryad.org">Dryad</a>, <a rel="nofollow" class="external text" href="https://figshare.com">Figshare</a>, <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/genbank/">GenBank</a>, <a rel="nofollow" class="external text" href="http://www.treebase.org">TreeBASE</a>, or <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/sra">NCBI</a>. Authors may elect to make the data publicly available as soon as the article is published or, if the technology of the archive allows, embargo access to the data up to three years after article publication. A statement describing Data Availability will be included in the manuscript as described in the instructions to authors. Exceptions to the required archiving of data may be granted at the discretion of the Editor-in-Chief for studies that include sensitive information (e.g., the location of endangered species). Our Editorial explaining the motivation for this policy can be found <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1111/btp.12318/abstract">here</a>. A more comprehensive list of data repositories is available <a rel="nofollow" class="external text" href="http://oad.simmons.edu/oadwiki/Data_repositories">here</a>.
+<i><b>Promoting a culture of collaboration with researchers who collect and archive data:</b></i> The data collected by tropical biologists are often long-term, complex, and expensive to collect. The Board of Editors of <i>Biotropica</i> strongly encourages authors who re-use data archives archived data sets to include as fully engaged collaborators the scientists who originally collected them. We feel this will greatly enhance the quality and impact of the resulting research by drawing on the data collector’s profound insights into the natural history of the study system, reducing the risk of errors in novel analyses, and stimulating the cross-disciplinary and cross-cultural collaboration and training for which the <a rel="nofollow" class="external text" href="http://tropicalbiology.org/">ATBC</a> and <i>Biotropica</i> are widely recognized.</p></blockquote>
+<p><b>NB:</b> <i>Biotropica</i> is one of only two journals that pays the fees for authors depositing data at Dryad.
+</p>
+<h3><span class="mw-headline" id="The_American_Naturalist"><i>The American Naturalist</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=3" title="Edit section: The American Naturalist">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r996844942"/><blockquote class="templatequote"><p><i><a href="/wiki/The_American_Naturalist" title="The American Naturalist">The American Naturalist</a></i> requires authors to deposit the data associated with accepted papers in a public archive. For gene sequence data and phylogenetic trees, deposition in <a href="/wiki/GenBank" title="GenBank">GenBank</a> or <a href="/wiki/TreeBASE" title="TreeBASE">TreeBASE</a>, respectively, is required. There are many possible archives that may suit a particular data set, including the <a href="/wiki/Dryad_(repository)" title="Dryad (repository)">Dryad</a> repository for ecological and evolutionary biology data. All accession numbers for GenBank, TreeBASE, and Dryad must be included in accepted manuscripts before they go to Production. If the data is deposited somewhere else, please provide a link. If the data is culled from published literature, please deposit the collated data in Dryad for the convenience of your readers. Any impediments to data sharing should be brought to the attention of the editors at the time of submission so that appropriate arrangements can be worked out.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></p></blockquote>
+<h3><span class="mw-headline" id="Journal_of_Heredity"><i>Journal of Heredity</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=4" title="Edit section: Journal of Heredity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r996844942"/><blockquote class="templatequote"><p>The primary data underlying the conclusions of an article are critical to the verifiability and transparency of the scientific enterprise, and should be preserved in usable form for decades in the future. For this reason, <i>Journal of Heredity</i> requires that newly reported nucleotide or amino acid sequences, and structural coordinates, be submitted to appropriate public databases (e.g., GenBank; the <a href="/w/index.php?title=EMBL_Nucleotide_Sequence_Database&amp;action=edit&amp;redlink=1" class="new" title="EMBL Nucleotide Sequence Database (page does not exist)">EMBL Nucleotide Sequence Database</a>; DNA Database of Japan; the <a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">Protein Data Bank</a>&#160;; and <a href="/wiki/Swiss-Prot" class="mw-redirect" title="Swiss-Prot">Swiss-Prot</a>). Accession numbers must be included in the final version of the manuscript. For other forms of data (e.g., microsatellite genotypes, linkage maps, images), the Journal endorses the principles of the Joint Data Archiving Policy (JDAP) in encouraging all authors to archive primary datasets in an appropriate public archive, such as Dryad, TreeBASE, or the Knowledge Network for Biocomplexity. Authors are encouraged to make data publicly available at time of publication or, if the technology of the archive allows, opt to embargo access to the data for a period up to a year after publication.
+The American Genetic Association also recognizes the vast investment of individual researchers in generating and curating large datasets. Consequently, we recommend that this investment be respected in secondary analyses or meta-analyses in a gracious collaborative spirit.</p><div class="templatequotecite">—&#8201;<cite>oxfordjournals.org<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></cite></div></blockquote>
+<h3><span class="mw-headline" id="Molecular_Ecology"><i>Molecular Ecology</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=5" title="Edit section: Molecular Ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r996844942"/><blockquote class="templatequote"><p><a href="/wiki/Molecular_Ecology" title="Molecular Ecology">Molecular Ecology</a> expects that data supporting the results in the paper should be archived in an appropriate public archive, such as GenBank, <a href="/wiki/Gene_Expression_Omnibus" title="Gene Expression Omnibus">Gene Expression Omnibus</a>, TreeBASE, Dryad, the <a href="/w/index.php?title=Knowledge_Network_for_Biocomplexity&amp;action=edit&amp;redlink=1" class="new" title="Knowledge Network for Biocomplexity (page does not exist)">Knowledge Network for Biocomplexity</a>, your own institutional or funder repository, or as Supporting Information on the Molecular Ecology web site. Data are important products of the scientific enterprise, and they should be preserved and usable for decades in the future. Authors may elect to have the data publicly available at time of publication, or, if the technology of the archive allows, may opt to embargo access to the data for a period up to a year after publication. Exceptions may be granted at the discretion of the editor, especially for sensitive information such as human subject data or the location of endangered species.</p><div class="templatequotecite">—&#8201;<cite>Wiley<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></cite></div></blockquote>
+<h3><span class="mw-headline" id="Nature"><i>Nature</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=6" title="Edit section: Nature">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r996844942"/><blockquote class="templatequote"><p>Such material must be hosted on an accredited independent site (URL and accession numbers to be provided by the author), or sent to the <i>Nature</i> journal at submission, either uploaded via the journal's online submission service, or if the files are too large or in an unsuitable format for this purpose, on CD/DVD (five copies). Such material cannot solely be hosted on an author's personal or institutional web site.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+<i>Nature</i> requires the reviewer to determine if all of the supplementary data and methods have been archived.  The policy advises reviewers to consider several questions, including: "Should the authors be asked to provide supplementary methods or data to accompany the paper online? (Such data might include source code for modelling studies, detailed experimental protocols or mathematical derivations.)</p><div class="templatequotecite">—&#8201;<cite><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></cite></div></blockquote>
+<h3><span class="mw-headline" id="Science"><i>Science</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=7" title="Edit section: Science">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r996844942"/><blockquote class="templatequote"><p><i>Science</i> supports the efforts of databases that aggregate published data for the use of the scientific community. Therefore, before publication, large data sets (including microarray data, protein or DNA sequences, and atomic coordinates or electron microscopy maps for macromolecular structures) must be deposited in an approved database and an accession number provided for inclusion in the published paper.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+"Materials and methods" – <i>Science</i> now requests that, in general, authors place the bulk of their description of materials and methods online as supporting material, providing only as much methods description in the print manuscript as is necessary to follow the logic of the text. (Obviously, this restriction will not apply if the paper is fundamentally a study of a new method or technique.)</p><div class="templatequotecite">—&#8201;<cite><a href="/wiki/Science_(journal)" title="Science (journal)">Science</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></cite></div></blockquote>
+<h3><span class="mw-headline" id="Royal_Society">Royal Society</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=8" title="Edit section: Royal Society">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r996844942"/><blockquote class="templatequote"><p>To allow others to verify and build on the work published in <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a> journals, it is a condition of publication that authors make available the data, code and research materials supporting the results in the article.
+</p><p>Datasets and code should be deposited in an appropriate, recognised, publicly available repository. Where no data-specific repository exists, authors should deposit their datasets in a general repository such as <a href="/wiki/Dryad_(repository)" title="Dryad (repository)">Dryad (repository)</a> or <a href="/wiki/Figshare" title="Figshare">Figshare</a>.
+</p>
+<div class="templatequotecite">—&#8201;<cite><a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></cite></div></blockquote>
+<h3><span class="mw-headline" id="Journal_of_Archaeological_Science"><i>Journal of Archaeological Science</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=9" title="Edit section: Journal of Archaeological Science">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r996844942"/><blockquote class="templatequote"><p>The <i><a href="/wiki/Journal_of_Archaeological_Science" title="Journal of Archaeological Science">Journal of Archaeological Science</a></i> has had a <a rel="nofollow" class="external text" href="https://www.elsevier.com/journals/journal-of-archaeological-science/0305-4403/guide-for-authors">data disclosure policy</a> since at least 2013. Their policy states that 'all data relating to the article must be made available in Supplementary files or deposited in external repositories and linked to within the article. The policy recommends that data are deposited in a repository such as the <a href="/wiki/Archaeology_Data_Service" title="Archaeology Data Service">Archaeology Data Service</a>, <a rel="nofollow" class="external text" href="https://www.tdar.org/about/">the Digital Archaeological Record</a>, or <a href="/wiki/PANGAEA" class="mw-redirect" title="PANGAEA">PANGAEA</a>. A 2018 study found a data availability rate of 53%, reflecting either weak enforcement of this policy or an incomplete understanding among editors, reviewers, and authors of how to interpret and implement this policy.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></p></blockquote>
+<h2><span class="mw-headline" id="Policies_by_funding_agencies">Policies by funding agencies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=10" title="Edit section: Policies by funding agencies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the United States, the <a href="/wiki/National_Science_Foundation" title="National Science Foundation">National Science Foundation</a> (NSF) has tightened requirements on data archiving. Researchers seeking funding from NSF are now required to file a <a href="/wiki/Data_management_plan" title="Data management plan">data management plan</a> as a two-page supplement to the grant application.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>The NSF <a href="/wiki/Datanet" title="Datanet">Datanet</a> initiative has resulted in funding of the <b>Data Observation Network for Earth</b> (<a href="/wiki/DataONE" title="DataONE">DataONE</a>) project, which will provide scientific data archiving for ecological and environmental data produced by scientists worldwide. DataONE's stated goal is to preserve and provide access to multi-scale, multi-discipline, and multi-national data. The community of users for DataONE includes scientists, ecosystem managers, policy makers, students, educators, and the public.
+</p><p>The German <a href="/wiki/Deutsche_Forschungsgemeinschaft" class="mw-redirect" title="Deutsche Forschungsgemeinschaft">DFG</a> requires that research data should be archived in the researcher's own institution or an appropriate nationwide infrastructure for at least 10 years.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>The British <a href="/wiki/Digital_Curation_Centre" title="Digital Curation Centre">Digital Curation Centre</a> maintains an overview of funder's data policies.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Data_library">Data library</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=11" title="Edit section: Data library">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:The_difference_between_a_Data_Repository_and_an_Archive_Repository.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_difference_between_a_Data_Repository_and_an_Archive_Repository.svg/220px-The_difference_between_a_Data_Repository_and_an_Archive_Repository.svg.png" decoding="async" width="220" height="156" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_difference_between_a_Data_Repository_and_an_Archive_Repository.svg/330px-The_difference_between_a_Data_Repository_and_an_Archive_Repository.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_difference_between_a_Data_Repository_and_an_Archive_Repository.svg/440px-The_difference_between_a_Data_Repository_and_an_Archive_Repository.svg.png 2x" data-file-width="1052" data-file-height="744" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:The_difference_between_a_Data_Repository_and_an_Archive_Repository.svg" class="internal" title="Enlarge"></a></div>Data Repository and an Archive Repository</div></div></div>
+<p>Research data is archived in <b>data libraries</b> or <b>data archives</b>. A <b>data library</b>, <b>data archive</b>, or <b>data repository</b> is a <a href="/wiki/Archive" title="Archive">collection</a> of numeric and/or <a href="/wiki/Geospatial" class="mw-redirect" title="Geospatial">geospatial</a> <a href="/wiki/Data_set" title="Data set">data sets</a> for secondary use in research. A data library is normally part of a larger institution (academic, corporate, scientific, medical, governmental, etc.). established for research data archiving and to serve the data users of that organisation. The data library tends to house local data collections and provides access to them through various means (<a href="/wiki/Compact_disc" title="Compact disc">CD</a>-/<a href="/wiki/DVD" title="DVD">DVD</a>-ROMs or central <a href="/wiki/Server_(computing)" title="Server (computing)">server</a> for download).  A data library may also maintain subscriptions to licensed data resources for its users to access the information. Whether a data library is also considered a data archive may depend on the extent of unique holdings in the collection, whether long-term preservation services are offered, and whether it serves a broader community (as national data archives do). Most public data libraries are listed in the <a href="/wiki/Registry_of_Research_Data_Repositories" title="Registry of Research Data Repositories">Registry of Research Data Repositories</a>.
+</p>
+<h3><span class="mw-headline" id="Importance_and_services">Importance and services</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=12" title="Edit section: Importance and services">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In August 2001, the <a href="/wiki/Association_of_Research_Libraries" title="Association of Research Libraries">Association of Research Libraries</a> (ARL) published a report<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> presenting results from a survey of ARL member institutions involved in collecting and providing services for numeric data resources.
+</p><p>Library service providing support at the institutional level for the use of numerical and other types of  <a href="/wiki/Data_set" title="Data set">datasets</a> in research. Amongst the support activities typically available:
+</p>
+<ul><li>Reference Assistance — locating numeric or geospatial datasets containing measurable variables on a particular topic or group of topics, in response to a user query.</li>
+<li>User Instruction — providing hands-on training to groups of users in locating data resources on particular topics, how to download data and read it into spreadsheet, statistical, database, or GIS packages, how to interpret codebooks and other documentation.</li>
+<li>Technical Assistance - including easing registration procedures, troubleshooting problems with the dataset, such as errors in the documentation, reformatting data into something a user can work with, and helping with statistical methodology.</li>
+<li>Collection Development &amp; Management - acquire, maintain, and manage a collection of data files used for secondary analysis by the local user community; purchase institutional data subscriptions; act as a site representative to data providers and national data archives for the institution.</li>
+<li>Preservation and Data Sharing Services - act on a strategy of preservation of datasets in the collection, such as media refreshment and file format migration; download and keep records on updated versions from a central repository. Also, assist users in preparing original data for secondary use by others; either for deposit in a central or institutional repository, or for less formal ways of sharing data. This may also involve marking up the data into an appropriate XML standard, such as the Data Documentation Initiative, or adding other metadata to facilitate online discovery.</li></ul>
+<h2><span class="mw-headline" id="Examples_of_data_libraries">Examples of data libraries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=13" title="Edit section: Examples of data libraries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Natural_sciences">Natural sciences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=14" title="Edit section: Natural sciences">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following list refers to scientific data archives.
+</p>
+<ul><li><a href="/wiki/CISL_Research_Data_Archive" title="CISL Research Data Archive">CISL Research Data Archive</a></li>
+<li><a href="/wiki/DataONE" title="DataONE">DataONE</a></li>
+<li><a href="/wiki/Dryad_(repository)" title="Dryad (repository)">Dryad</a></li>
+<li><a href="/wiki/ESO/ST-ECF_Science_Archive_Facility" title="ESO/ST-ECF Science Archive Facility">ESO/ST-ECF Science Archive Facility</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ncdc.noaa.gov/paleo/treering.html">International Tree-Ring Data Bank</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.icpsr.umich.edu">Inter-university Consortium for Political and Social Research</a></li>
+<li><a rel="nofollow" class="external text" href="http://knb.ecoinformatics.org">Knowledge Network for Biocomplexity</a></li>
+<li><a href="/wiki/National_Archive_of_Computerized_Data_on_Aging" title="National Archive of Computerized Data on Aging">National Archive of Computerized Data on Aging</a></li>
+<li>National Archive of Criminal Justice Data <a rel="nofollow" class="external autonumber" href="http://www.icpsr.umich.edu/nacjd">[3]</a></li>
+<li>NCAR Research Data Archive:  <a rel="nofollow" class="external free" href="http://rda.ucar.edu">http://rda.ucar.edu</a></li>
+<li><a href="/wiki/National_Climatic_Data_Center" title="National Climatic Data Center">National Climatic Data Center</a></li>
+<li><a href="/wiki/National_Geophysical_Data_Center" title="National Geophysical Data Center">National Geophysical Data Center</a></li>
+<li><a href="/wiki/National_Snow_and_Ice_Data_Center" title="National Snow and Ice Data Center">National Snow and Ice Data Center</a></li>
+<li><a href="/wiki/National_Oceanographic_Data_Center" title="National Oceanographic Data Center">National Oceanographic Data Center</a></li>
+<li><a rel="nofollow" class="external text" href="http://daac.ornl.gov">Oak Ridge National Laboratory Distributed Active Archive Center</a></li>
+<li><a href="/wiki/PANGAEA_(data_library)" title="PANGAEA (data library)">Pangaea - Data Publisher for Earth &amp; Environmental Science</a></li>
+<li><a href="/wiki/SeaBASS_(data_archive)" title="SeaBASS (data archive)">NASA SeaBASS - Data archive for ocean color data</a></li>
+<li><a href="/wiki/World_Data_Center" title="World Data Center">World Data Center</a></li></ul>
+<h3><span class="mw-headline" id="Social_sciences">Social sciences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=15" title="Edit section: Social sciences">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the social sciences, data libraries are referred to as data archives.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> Data archives are professional institutions for the acquisition, preparation, preservation, and dissemination of social and behavioral data. Data archives in the social sciences evolved in the 1950s and have been perceived as an international movement:
+</p>
+<blockquote><p>By 1964 the International Social Science Council (ISSC) had sponsored a second conference on Social Science Data Archives and had a standing Committee on Social Science Data, both of which stimulated the data archives movement. By the beginning of the twenty-first century, most developed countries and some developing countries had organized formal and well-functioning national data archives. In addition, college and university campuses often have `data libraries' that make data available to their faculty, staff, and students; most of these bear minimal archival responsibility, relying for that function on a national institution (Rockwell, 2001, p. 3227).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup></p></blockquote>
+<ul><li><a href="/wiki/Registry_of_Research_Data_Repositories" title="Registry of Research Data Repositories">re3data.org</a> is a global registry of research data repository indexing data archives from all disciplines: <a rel="nofollow" class="external free" href="http://www.re3data.org">http://www.re3data.org</a></li>
+<li>CESSDA Members are data archives and other organisations that archive social science data and provide data for secondary use: <a rel="nofollow" class="external free" href="https://www.cessda.eu/About/Consortium">https://www.cessda.eu/About/Consortium</a></li>
+<li>Consortium of European Social Science Data Archives: <a rel="nofollow" class="external free" href="http://www.cessda.org/">http://www.cessda.org/</a></li>
+<li>Finnish Social Science Data Archive (FSD): <a rel="nofollow" class="external free" href="http://www.fsd.uta.fi/">http://www.fsd.uta.fi/</a></li>
+<li>The Danish Data Archives: <a rel="nofollow" class="external free" href="http://www.sa.dk/content/us/about_us">http://www.sa.dk/content/us/about_us</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141229142418/http://www.sa.dk/content/us/about_us">Archived</a> 2014-12-29 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#160;; specific page (only in Danish): <a rel="nofollow" class="external free" href="https://web.archive.org/web/20150318230743/http://www.sa.dk/dda/default.htm">https://web.archive.org/web/20150318230743/http://www.sa.dk/dda/default.htm</a></li>
+<li>Inter-university Consortium for Political and Social Research: <a rel="nofollow" class="external free" href="http://www.icpsr.umich.edu/">http://www.icpsr.umich.edu/</a></li>
+<li>The Roper Center for Public Opinion Research: <a rel="nofollow" class="external free" href="https://ropercenter.cornell.edu/">https://ropercenter.cornell.edu/</a></li>
+<li>The Social Science Data Archive: <a rel="nofollow" class="external free" href="http://dataarchives.ss.ucla.edu/">http://dataarchives.ss.ucla.edu/</a></li>
+<li>Cornell Institute for Social and Economic Research: <a rel="nofollow" class="external free" href="https://ciser.cornell.edu/data/data-archive/">https://ciser.cornell.edu/data/data-archive/</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Data_bank" title="Data bank">Data bank</a></li>
+<li><a href="/wiki/Data_center" title="Data center">Data center</a></li>
+<li><a href="/wiki/Data_curation" title="Data curation">Data curation</a></li>
+<li><a href="/wiki/Digital_curation" title="Digital curation">Digital curation</a></li>
+<li><a href="/wiki/Digital_preservation" title="Digital preservation">Digital preservation</a></li>
+<li><a href="/wiki/Open_Data" class="mw-redirect" title="Open Data">Open Data</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">”Policy on Referencing Data in and Archiving Data for AGU Publications” <a rel="nofollow" class="external autonumber" href="http://www.agu.org/pubs/authors/policies/data_policy.shtml">[1]</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">"The Case for Due Diligence When Empirical Research is Used in Policy Formation" by Bruce McCullough and Ross McKitrick. <a rel="nofollow" class="external autonumber" href="http://economics.ca/2006/papers/0685.pdf">[2]</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://gking.harvard.edu/replication.shtml">"Data Sharing and Replication" a website by Gary King</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070328035546/http://gking.harvard.edu/replication.shtml">Archived</a> 2007-03-28 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.journals.uchicago.edu/journals/an/instruct#data">Supporting Data and Material</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070517013317/http://www.oxfordjournals.org/our_journals/jhered/for_authors/msprep_submission.html#4.%20DATA%20ARCHIVING%20POLICY">Data archiving policy</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wiley.com/bw/submit.asp?ref=0962-1083&amp;site=1">Policy on data archiving</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nature.com/authors/editorial_policies/availability.html">"Availability of Data and Materials: The Policy of Nature Magazine</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.nature.com/authors/gta.pdf">"Guide to Publication Policies of the Nature Journals"</a> <span class="cs1-format">(PDF)</span>. March 14, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Guide+to+Publication+Policies+of+the+Nature+Journals&amp;rft.date=2007-03-14&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fauthors%2Fgta.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResearch+data+archiving" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sciencemag.org/about/authors/prep/gen_info.dtl#datadep">"General Policies of Science Magazine"</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sciencemag.org/about/authors/prep/prep_online.dtl">”Preparing Your Supporting Online Material”</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://royalsociety.org/journals/ethics-policies/data-sharing-mining/">"Data sharing and mining"</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"/><cite id="CITEREFMarwickBirch2018" class="citation journal cs1">Marwick, Ben; Birch, Suzanne E. Pilaar (5 April 2018). <a rel="nofollow" class="external text" href="https://osf.io/preprints/socarxiv/py4hz/">"A Standard for the Scholarly Citation of Archaeological Data as an Incentive to Data Sharing"</a>. <i>Advances in Archaeological Practice</i>. <b>6</b> (2): 125–143. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1017%2Faap.2018.3">10.1017/aap.2018.3</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Advances+in+Archaeological+Practice&amp;rft.atitle=A+Standard+for+the+Scholarly+Citation+of+Archaeological+Data+as+an+Incentive+to+Data+Sharing&amp;rft.volume=6&amp;rft.issue=2&amp;rft.pages=125-143&amp;rft.date=2018-04-05&amp;rft_id=info%3Adoi%2F10.1017%2Faap.2018.3&amp;rft.aulast=Marwick&amp;rft.aufirst=Ben&amp;rft.au=Birch%2C+Suzanne+E.+Pilaar&amp;rft_id=https%3A%2F%2Fosf.io%2Fpreprints%2Fsocarxiv%2Fpy4hz%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AResearch+data+archiving" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.sciencemag.org/scienceinsider/2010/05/nsf-to-ask-every-grant-applicant.html">”NSF to Ask Every Grant Applicant for Data Management Plan”</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.dfg.de/en/research_funding/proposal_review_decision/applicants/research_data/index.html">”DFG Guidelines on the Handling of Research Data”</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies">"Overview of funders' data policies | Digital Curation Centre"</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.arl.org/spec/263sum.html">SPEC Kit 263: <i>Numeric Data Products and Services</i></a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">White,Howard D. (1977). Machine-Readable Social Science Data. <i>Drexel Library Quarterly</i> 13 (January, 1977):1-110.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Rockwell, R. C. (2001). Data Archives: International. IN: Smelser, N. J. &amp; Baltes, P. B. (eds.) <i>International Encyclopedia of the Social and Behavioral Sciences</i> (vol. 5, pp. 3225- 3230). Amsterdam: Elsevier</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=18" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Registry_of_Research_Data_Repositories" title="Registry of Research Data Repositories">Registry of Research Data Repositories</a> <i>re3data.org</i> <a rel="nofollow" class="external autonumber" href="http://service.re3data.org/search/results?term=">[4]</a></li>
+<li>Statistical checklist required by <i>Nature</i> <a rel="nofollow" class="external autonumber" href="http://www.nature.com/nature/authors/gta/Statistical_checklist.doc">[5]</a></li>
+<li>Policies of <i>Proceedings of the National Academy of Sciences (U.S.)</i> <a rel="nofollow" class="external autonumber" href="http://www.pnas.org/misc/iforc.shtml#policies">[6]</a></li>
+<li>The US National Committee for CODATA <a rel="nofollow" class="external autonumber" href="http://www7.nationalacademies.org/usnc-codata/Archiving.html">[7]</a></li>
+<li>The Role of Data and Program Code Archives in the Future of Economic Research  <a rel="nofollow" class="external autonumber" href="http://research.stlouisfed.org/wp/2005/2005-014.pdf">[8]</a></li>
+<li>Data sharing and replication – Gary King website <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20070328035546/http://gking.harvard.edu/replication.shtml">[9]</a></li>
+<li>The Case for Due Diligence When Empirical Research is Used in Policy Formation by McCullough and McKitrick <a rel="nofollow" class="external autonumber" href="http://economics.ca/2006/papers/0685.pdf">[10]</a></li>
+<li>Thoughts on Refereed Journal Publication by Chuck Doswell <a rel="nofollow" class="external autonumber" href="http://www.cimms.ou.edu/~doswell/pubreviews.html">[11]</a></li>
+<li>“How to encourage the right behaviour” An opinion piece published in <i>Nature</i>,  March, 2002.<a rel="nofollow" class="external autonumber" href="http://www.nature.com/nature/journal/v416/n6876/full/416001b.html">[12]</a></li>
+<li><a href="/wiki/NASA_Astrophysics_Data_System" class="mw-redirect" title="NASA Astrophysics Data System">NASA Astrophysics Data System</a> <a rel="nofollow" class="external autonumber" href="http://cdsads.u-strasbg.fr/">[13]</a></li>
+<li><a href="/wiki/Panton_Principles" title="Panton Principles">Panton Principles</a> for Open Data in Science, at Citizendium <a rel="nofollow" class="external autonumber" href="http://en.citizendium.org/wiki/Panton_Principles">[14]</a></li>
+<li><a href="/wiki/Inter-university_Consortium_for_Political_and_Social_Research" title="Inter-university Consortium for Political and Social Research">Inter-university Consortium for Political and Social Research</a> <a rel="nofollow" class="external autonumber" href="http://www.icpsr.umich.edu">[15]</a></li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=19" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Clubb, J., Austin, E., and Geda, C. "'Sharing research data in the social sciences.'" In <i>Sharing Research Data</i>, S. Fienberg, M. Martin, and M. Straf, Eds. National Academy Press, Washington, D.C., 1985, 39-88.</li>
+<li>Geraci, D., Humphrey, C., and Jacobs, J. <i>Data Basics</i>. Canadian Library Association, Ottawa, ON, 2005.</li>
+<li>Heim, Kathleen M. "Social Scientific Information Needs for Numeric Data: The Evolution of the International Data Archive Infrastructure."  <i>Collection Management</i> 9 (Spring 1987): 1-53.</li>
+<li>Martinez, Luis &amp; Macdonald, Stuart, <a rel="nofollow" class="external text" href="http://www.ariadne.ac.uk/issue44/martinez/">"'Supporting local data users in the UK academic community'"</a>. <i>Ariadne</i>, issue 44, July 2005.</li>
+<li>See the <a rel="nofollow" class="external text" href="http://www.iassistdata.org/publications/bibliography.html"><i>IASSIST Bibliography of Selected Works</i></a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160303174123/http://www.iassistdata.org/publications/bibliography.html">Archived</a> 2016-03-03 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> for articles tracing the history of data libraries and its relationship to the archivist profession, going back to the 1960s and '70s up to 1996.</li>
+<li>See <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070116075055/http://www.iassistdata.org/publications/iq/index.html"><i>IASSIST Quarterly</i></a> articles from 1993 to the present, focusing on data libraries, data archives, data support, and information technology for the social sciences.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://archive.ics.uci.edu/ml/index.php">University of California Irvine Machine Learnimg Repository</a></li></ul>
+<h3><span class="mw-headline" id="Associations">Associations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Research_data_archiving&amp;action=edit&amp;section=21" title="Edit section: Associations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.iassistdata.org/">IASSIST</a> (International Association for Social Science Information and Service Technology)</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060925032153/http://datalib.ed.ac.uk/discuk/">DISC-UK</a> (Data Information Specialists Committee—United Kingdom)</li>
+<li><a rel="nofollow" class="external text" href="http://www.apdu.org/">APDU</a> (Association of Public Data Users - USA)</li>
+<li><a rel="nofollow" class="external text" href="http://www.capdu.ca/">CAPDU</a> (Canadian Association of Public Data Users)</li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Data" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"/><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Data" title="Template:Data"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Data" title="Template talk:Data"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Data&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Data" style="font-size:114%;margin:0 4em"><a href="/wiki/Data_(computing)" class="mw-redirect" title="Data (computing)">Data</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Data_augmentation" title="Data augmentation">Augmentation</a></li>
+<li><a href="/wiki/Data_analysis" title="Data analysis">Analysis</a></li>
+<li><a href="/wiki/Data_archaeology" title="Data archaeology">Archaeology</a></li>
+<li><a href="/wiki/Big_data" title="Big data">Big</a></li>
+<li><a href="/wiki/Data_cleansing" title="Data cleansing">Cleansing</a></li>
+<li><a href="/wiki/Data_collection" title="Data collection">Collection</a></li>
+<li><a href="/wiki/Data_compression" title="Data compression">Compression</a></li>
+<li><a href="/wiki/Data_corruption" title="Data corruption">Corruption</a></li>
+<li><a href="/wiki/Data_curation" title="Data curation">Curation</a></li>
+<li><a href="/wiki/Data_degradation" title="Data degradation">Degradation</a></li>
+<li><a href="/wiki/Data_editing" title="Data editing">Editing</a></li>
+<li><a href="/wiki/Extract,_transform,_load" title="Extract, transform, load">ETL</a>/<a href="/wiki/Extract,_load,_transform" title="Extract, load, transform">ELT</a>
+<ul><li><a href="/wiki/Data_extraction" title="Data extraction">Extract</a></li>
+<li><a href="/wiki/Data_transformation" class="mw-redirect" title="Data transformation">Transform</a></li>
+<li><a href="/wiki/Data_loading" class="mw-redirect" title="Data loading">Load</a></li></ul></li>
+<li><a href="/wiki/Data_farming" title="Data farming">Farming</a></li>
+<li><a href="/wiki/Data_format_management" title="Data format management">Format management</a></li>
+<li><a href="/wiki/Data_fusion" title="Data fusion">Fusion</a></li>
+<li><a href="/wiki/Data_integration" title="Data integration">Integration</a></li>
+<li><a href="/wiki/Data_integrity" title="Data integrity">Integrity</a></li>
+<li><a href="/wiki/Data_library" class="mw-redirect" title="Data library">Library</a></li>
+<li><a href="/wiki/Data_lineage" title="Data lineage">Lineage</a></li>
+<li><a href="/wiki/Data_loss" title="Data loss">Loss</a></li>
+<li><a href="/wiki/Data_management" title="Data management">Management</a></li>
+<li><a href="/wiki/Data_migration" title="Data migration">Migration</a></li>
+<li><a href="/wiki/Data_mining" title="Data mining">Mining</a></li>
+<li><a href="/wiki/Data_philanthropy" title="Data philanthropy">Philanthropy</a></li>
+<li><a href="/wiki/Data_pre-processing" title="Data pre-processing">Pre-processing</a></li>
+<li><a href="/wiki/Data_preservation" title="Data preservation">Preservation</a></li>
+<li><a href="/wiki/Information_privacy" title="Information privacy">Protection (privacy)</a></li>
+<li><a href="/wiki/Data_publishing" title="Data publishing">Publishing</a></li>
+<li><a href="/wiki/Data_recovery" title="Data recovery">Recovery</a></li>
+<li><a href="/wiki/Data_reduction" title="Data reduction">Reduction</a></li>
+<li><a href="/wiki/Data_retention" title="Data retention">Retention</a></li>
+<li><a href="/wiki/Data_quality" title="Data quality">Quality</a></li>
+<li><a href="/wiki/Data_science" title="Data science">Science</a></li>
+<li><a href="/wiki/Data_scraping" title="Data scraping">Scraping</a></li>
+<li><a href="/wiki/Data_scrubbing" title="Data scrubbing">Scrubbing</a></li>
+<li><a href="/wiki/Data_security" title="Data security">Security</a></li>
+<li><a href="/wiki/Data_steward" title="Data steward">Stewardship</a></li>
+<li><a href="/wiki/Data_storage" title="Data storage">Storage</a></li>
+<li><a href="/wiki/Data_validation" title="Data validation">Validation</a></li>
+<li><a href="/wiki/Data_warehouse" title="Data warehouse">Warehouse</a></li>
+<li><a href="/wiki/Data_wrangling" title="Data wrangling">Wrangling/munging</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1365
+Cached time: 20230204180243
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.284 seconds
+Real time usage: 0.325 seconds
+Preprocessor visited node count: 1444/1000000
+Post‐expand include size: 25732/2097152 bytes
+Template argument size: 9534/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 23298/5000000 bytes
+Lua time usage: 0.147/10.000 seconds
+Lua memory usage: 2973375/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  248.549      1 -total
+ 37.58%   93.415      1 Template:Reflist
+ 31.26%   77.708      1 Template:Data
+ 30.52%   75.846      1 Template:Navbox
+ 26.97%   67.038      1 Template:Cite_web
+ 26.21%   65.140      8 Template:Blockquote
+ 11.60%   28.822      5 Template:Comma_separated_entries
+  5.92%   14.714     15 Template:If_empty
+  4.04%   10.051      3 Template:Webarchive
+  3.10%    7.702      1 Template:Cite_journal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10022970-0!canonical and timestamp 20230204180242 and revision id 1136415880. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Research_data_archiving&amp;oldid=1136415880#Data_library">https://en.wikipedia.org/w/index.php?title=Research_data_archiving&amp;oldid=1136415880#Data_library</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_archives" title="Category:Computer archives">Computer archives</a></li><li><a href="/wiki/Category:Data_management" title="Category:Data management">Data management</a></li><li><a href="/wiki/Category:Data_publishing" title="Category:Data publishing">Data publishing</a></li><li><a href="/wiki/Category:Digital_preservation" title="Category:Digital preservation">Digital preservation</a></li><li><a href="/wiki/Category:Information_retrieval_techniques" title="Category:Information retrieval techniques">Information retrieval techniques</a></li><li><a href="/wiki/Category:Knowledge_representation" title="Category:Knowledge representation">Knowledge representation</a></li><li><a href="/wiki/Category:Structured_storage" title="Category:Structured storage">Structured storage</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden category: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>
+					
+				</div>
+				
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 30 January 2023, at 05:41<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Research_data_archiving&amp;mobileaction=toggle_view_mobile#Data_library" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.325","ppvisitednodes":{"value":1444,"limit":1000000},"postexpandincludesize":{"value":25732,"limit":2097152},"templateargumentsize":{"value":9534,"limit":2097152},"expansiondepth":{"value":8,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":23298,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  248.549      1 -total"," 37.58%   93.415      1 Template:Reflist"," 31.26%   77.708      1 Template:Data"," 30.52%   75.846      1 Template:Navbox"," 26.97%   67.038      1 Template:Cite_web"," 26.21%   65.140      8 Template:Blockquote"," 11.60%   28.822      5 Template:Comma_separated_entries","  5.92%   14.714     15 Template:If_empty","  4.04%   10.051      3 Template:Webarchive","  3.10%    7.702      1 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.147","limit":"10.000"},"limitreport-memusage":{"value":2973375,"limit":52428800}},"cachereport":{"origin":"mw1365","timestamp":"20230204180243","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Research data archiving","url":"https:\/\/en.wikipedia.org\/wiki\/Research_data_archiving#Data_library","sameAs":"http:\/\/www.wikidata.org\/entity\/Q17155735","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q17155735","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-03-13T00:17:54Z","dateModified":"2023-01-30T05:41:44Z","headline":"long-term storage of scholarly research data"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Research data archiving","url":"https:\/\/en.wikipedia.org\/wiki\/Research_data_archiving#Data_library","sameAs":"http:\/\/www.wikidata.org\/entity\/Q17155735","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q17155735","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-03-13T00:17:54Z","dateModified":"2023-01-30T05:41:44Z","headline":"long-term storage of scholarly research data"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1472"});});</script>
+</body>
+</html>
